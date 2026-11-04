@@ -1,6 +1,7 @@
 import sys,os; sys.path.insert(0,os.path.dirname(os.path.abspath(__file__)))
 from sdflib import *
-from synth import mark_mask, composite, PAD, SPREAD
+from synth import mark_mask, composite
+from atlas import pack, PAD, SPREAD
 import freetype, pickle, lzma
 PL="ąćęłńóśźżĄĆĘŁŃÓŚŹŻ"
 BASE={'ą':'a','ć':'c','ę':'e','ł':'l','ń':'n','ó':'o','ś':'s','ź':'z','ż':'z','Ą':'A','Ć':'C','Ę':'E','Ł':'L','Ń':'N','Ó':'O','Ś':'S','Ź':'Z','Ż':'Z'}
@@ -48,16 +49,6 @@ def build():
             glyphs.append((ch,a,met,gi))
         out[it_name]=glyphs
     return out
-def pack(glyphs, W=1024):
-    x=1;y=1;rowh=0;pos=[]
-    for ch,a,m,gi in glyphs:
-        h,w=a.shape
-        if x+w+1>W: x=1;y+=rowh+1;rowh=0
-        pos.append((x,y)); x+=w+1; rowh=max(rowh,h)
-    H=y+rowh+1
-    Hp=1
-    while Hp<H: Hp*=2
-    return pos,Hp
 if __name__=='__main__':
     res=build()
     q={n:[(ch,(np.clip(a,0,1)*255+0.5).astype(np.uint8),m,gi) for ch,a,m,gi in g] for n,g in res.items()}

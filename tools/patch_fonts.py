@@ -2,7 +2,7 @@
 import sys,os; sys.path.insert(0,os.path.dirname(os.path.abspath(__file__)))
 import UnityPy, pickle, lzma, numpy as np
 from PIL import Image
-from build_fonts import pack, PAD
+from atlas import pack, PAD
 from UnityPy.enums import TextureFormat
 src, dst = sys.argv[1], sys.argv[2]
 # glyph SDFs stored as uint8 (the atlas is Alpha8, so this is lossless)

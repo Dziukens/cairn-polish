@@ -1,6 +1,6 @@
 import sys,os; sys.path.insert(0,os.path.dirname(os.path.abspath(__file__)))
 from sdflib import *
-SPREAD=26; PAD=25
+from atlas import PAD, SPREAD
 def mask_to_world(bits,l,t,ss=SS):
     """return list of hi-res coordinates helper: bbox in target px (x0,x1,ytop,ybot)"""
     return (l/ss,(l+bits.shape[1])/ss,t/ss,(t-bits.shape[0])/ss)

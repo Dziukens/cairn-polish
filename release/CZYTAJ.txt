@@ -1,0 +1,26 @@
+CAIRN – SPOLSZCZENIE (nieoficjalne, fanowskie)
+https://github.com/Dziukens/cairn-polish
+
+INSTALACJA
+1. Zamknij grę.
+2. Skopiuj folder "Cairn_Data" z tego archiwum do folderu gry i zgódź się na
+   zastąpienie plików. Folder gry w Steamie: prawy przycisk na Cairn ->
+   Zarządzaj -> Przeglądaj pliki lokalne.
+   Zastępowane są tylko dwa pliki języka włoskiego:
+     Cairn_Data\StreamingAssets\aa\StandaloneWindows64\localizationit_assets_all.bundle
+     Cairn_Data\StreamingAssets\aa\StandaloneWindows64\dynamicfontsit_assets_all.bundle
+3. W grze wybierz: Ustawienia -> Język -> Polski.
+
+Polski zastępuje język włoski (gra nie pozwala dodać nowego języka).
+
+ODINSTALOWANIE
+Steam: prawy przycisk na Cairn -> Właściwości -> Zainstalowane pliki ->
+Zweryfikuj spójność plików gry. Steam przywróci oryginalne pliki.
+
+AKTUALIZACJE GRY
+Spolszczenie przygotowano dla wersji gry ze Steama (Steam build 26319173).
+Aktualizacja gry może nadpisać pliki – wtedy skopiuj je ponownie. Jeśli po
+aktualizacji teksty są niepoprawne, pobierz nowszą wersję spolszczenia.
+
+Cairn jest znakiem towarowym The Game Bakers. Projekt nie jest powiązany
+z twórcami gry.

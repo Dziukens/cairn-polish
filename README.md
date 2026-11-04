@@ -8,11 +8,19 @@ Nieoficjalne, fanowskie tłumaczenie gry Cairn (The Game Bakers) na język polsk
 
 Polski zastępuje w grze **język włoski** – gra nie pozwala dodać nowego języka bez zmian w kodzie. Po instalacji wybierz w grze: **Ustawienia → Język → Polski**.
 
-Repozytorium nie zawiera żadnych plików gry. Skrypty modyfikują pakiety z Twojej własnej instalacji.
+## Instalacja (zwykły sposób)
 
-## Instalacja
+1. Pobierz `Cairn-PL-<wersja>.zip` z [Releases](https://github.com/Dziukens/cairn-polish/releases).
+2. Zamknij grę i rozpakuj archiwum do folderu gry (Steam: prawy przycisk na Cairn → Zarządzaj → Przeglądaj pliki lokalne), zastępując pliki. Podmieniane są tylko dwa pliki języka włoskiego w `Cairn_Data/StreamingAssets/aa/StandaloneWindows64/`.
+3. W grze wybierz **Ustawienia → Język → Polski**.
 
-Wymagania: Python 3 i Bash (np. Git Bash na Windows).
+Odinstalowanie: Steam → Właściwości → Zainstalowane pliki → **Zweryfikuj spójność plików gry**.
+
+Pliki w wydaniu pasują do wersji gry, dla której zostały zbudowane (podana w `CZYTAJ.txt`). Po aktualizacji gry, która zmieni pliki lokalizacji, trzeba zbudować je na nowo.
+
+## Budowanie ze źródeł
+
+Repozytorium nie zawiera plików gry – skrypty modyfikują pakiety z Twojej własnej instalacji. Wymagania: Python 3 i Bash (np. Git Bash na Windows).
 
 ```bash
 pip install -r requirements.txt
@@ -22,15 +30,19 @@ pip install -r requirements.txt
 ./install.sh "C:/Program Files (x86)/Steam/steamapps/common/Cairn"
 ```
 
-Skrypt przy pierwszym uruchomieniu zapisuje kopię oryginalnych pakietów włoskich w `backup/`, buduje polskie pakiety w `build/` i kopiuje je do gry. Po aktualizacji gry ze Steama, która nadpisze pliki, uruchom go ponownie.
-
-Usunięcie spolszczenia (przywrócenie włoskiego):
+Skrypt przy pierwszym uruchomieniu zapisuje kopię oryginalnych pakietów włoskich w `backup/`, buduje polskie pakiety w `build/` i kopiuje je do gry. Przywrócenie oryginału z kopii:
 
 ```bash
 ./restore.sh "C:/Program Files (x86)/Steam/steamapps/common/Cairn"
 ```
 
 Po aktualizacji gry kopia w `backup/` może być nieaktualna – wtedy zamiast `restore.sh` użyj w Steamie opcji „Zweryfikuj spójność plików gry”.
+
+Archiwum do wydania (z plików w `build/`):
+
+```bash
+python tools/make_release.py v1.0.0
+```
 
 ## Struktura
 
@@ -40,7 +52,8 @@ Po aktualizacji gry kopia w `backup/` może być nieaktualna – wtedy zamiast `
 | `tools/patch_loc.py` | sprawdza tagi, zmienne `{0}` i dozwolone znaki, a potem buduje pakiet `localizationit` z polskimi tekstami (brakujące zostają po angielsku) |
 | `tools/patch_fonts.py` | dopisuje polskie glify do pakietu `dynamicfontsit` |
 | `tools/pl_glyphs.pkl.xz` | gotowe glify SDF |
-| `tools/build_fonts.py`, `sdflib.py`, `synth.py` | generowanie glifów (wymaga czcionek i atlasów wyciągniętych z gry do `fontsx/`) |
+| `tools/make_release.py` | pakuje `build/*.bundle` i `release/CZYTAJ.txt` do `dist/Cairn-PL-<wersja>.zip` |
+| `tools/build_fonts.py`, `sdflib.py`, `synth.py`, `atlas.py` | generowanie glifów (wymaga czcionek i atlasów wyciągniętych z gry do `fontsx/`) |
 
 Sprawdzenie tłumaczenia bez budowania pakietów:
 
