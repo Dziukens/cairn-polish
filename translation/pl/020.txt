@@ -1,0 +1,524 @@
+@@3163
+Dalej, Aava, pokażemy jej.
+@@3164
+Głupia, zarozumiała góra!
+@@3165
+Niczego mi nie oszczędziłaś, co?
+@@3166
+Pieprz się, Kami, nie zrzucisz mnie.
+@@3167
+Idę w górę, czy ci się to podoba, czy nie.
+@@3168
+Nie tutaj. Nie teraz. Udało mi się, Kami.
+@@3169
+Dziennik
+@@3170
+Trasy
+@@3171
+Przepisy
+@@3172
+Album
+@@3173
+Dokumenty
+@@3174
+Następna strona
+@@3175
+Poprzednia strona
+@@3176
+Wybierz ulubione zdjęcie
+@@3177
+Znalezione przepisy: {0}/{1}
+@@3178
+Znalezione notatki: {0}/{1}
+@@3179
+Zmień ulubione zdjęcie
+@@3180
+Wymieszaj <b>{0}</b> z:
+@@3181
+Dni treningu
+@@3182
+Znaleziska dnia:
+@@3185
+Zdobądź szczyt
+@@3186
+Odblokuj wszystkie trofea
+@@3187
+Obowiązkowa rozgrzewka
+@@3188
+Ukończ trening w Tenzen
+@@3189
+Ci, którzy schodzą
+@@3190
+Spotkaj zepsutego climbota
+@@3191
+Chwila ochłody
+@@3192
+Zrób sobie przerwę przy wodospadzie
+@@3193
+Intruz na ścianie
+@@3194
+Spotkaj Marca
+@@3195
+Cała reszta znika
+@@3196
+Zobacz zorzę polarną
+@@3197
+Piekielna noc
+@@3198
+Obudź się na górze w świetnej formie
+@@3199
+Ani sukces, ani porażka
+@@3200
+Spotkaj Damasa Al Fatriego
+@@3201
+Pod prąd
+@@3202
+Przeżyj lawinę
+@@3203
+Część całości
+@@3204
+Zdobądź szczyt Kami
+@@3205
+Ani zadrapania
+@@3206
+Przeżyj upadek z 15 metrów
+@@3207
+Odrobinę za późno
+@@3208
+Spadnij podczas wbijania haka
+@@3209
+Poważny trening
+@@3210
+Otwórz skrzynię w sali treningowej
+@@3211
+Bez strachu
+@@3212
+Skocz z ziemi i uczep się ściany
+@@3213
+Uczciwy skok
+@@3214
+Zbierz dziki miód ze ściany
+@@3215
+Nie zostawiaj śladów
+@@3216
+Skompostuj 10 śmieci
+@@3217
+Sashimi z Kami
+@@3218
+Złap rybę
+@@3219
+Liż odpowiedzialnie
+@@3220
+Dostań zawrotów głowy od lizania żaby
+@@3221
+Powrót do źródła
+@@3222
+Złap dziwną salamandrę
+@@3223
+Luksusowy chwyt
+@@3224
+Skompostuj monety
+@@3225
+Nie wszystko złoto, co się świeci
+@@3226
+Znajdź świecące w ciemności rękawiczki
+@@3227
+Zaklinaczka wiatru
+@@3228
+Znajdź wiatraczek
+@@3229
+Zielarka
+@@3230
+Przyrządź napar ostateczny
+@@3231
+Mistrzyni czekolady
+@@3232
+Przyrządź wielkanocne jajko
+@@3233
+Klub Czerwonej Liny
+@@3234
+Przyrządź koktajl alkoholowy
+@@3235
+Na dopingu
+@@3236
+Połącz naraz efekty zrywu, chwytu, mocnego chwytu, skupienia i hartu
+@@3237
+Nie, dzięki
+@@3238
+Przerwij paplaninę Marca
+@@3239
+Z lotu ptaka
+@@3240
+Sprawdź swoją trasę w widoku z oddali
+@@3241
+Niedźwiedzica
+@@3242
+Przeżyj spotkanie z niedźwiedziem
+@@3243
+Rozświetl niebo
+@@3244
+Odpal fajerwerki
+@@3245
+Bicie serca
+@@3246
+Znajdź szarotkę
+@@3247
+Znajdź hak troglodytów pierwszego strażnika
+@@3248
+Znajdź hak troglodytów drugiego strażnika
+@@3249
+Znajdź hak troglodytów trzeciego strażnika
+@@3250
+Koniec liny
+@@3251
+Dotrzyj do najdalszego zasięgu liny
+@@3252
+Sjesta
+@@3253
+Utnij sobie miłą drzemkę na świeżym powietrzu
+@@3254
+Zdjęcie dla Chrisa
+@@3255
+Użyj trybu fotograficznego
+@@3256
+O włos
+@@3257
+Przeżyj prawie śmiertelny upadek
+@@3258
+Kwas mlekowy
+@@3259
+Odzyskaj wytrzymałość, potrząsając ręką ponad 50 razy
+@@3260
+Pielęgniarka
+@@3261
+Oklej palce 20 razy
+@@3262
+Inżynierka
+@@3263
+Wytwórz 15 haków ze złomu
+@@3264
+Udało mi się!
+@@3265
+Zdobądź szczyt mini-Kami
+@@3266
+Plecakowa maniaczka
+@@3267
+Naprawdę myślałaś, że utrzymasz porządek w plecaku?
+@@3268
+Aava Porter Bridges
+@@3269
+Dostarcz list Rody'ego pasterce
+@@3270
+Pewnego dnia będę bogaty!
+@@3271
+Przynieś szlifierzowi wszystkie odłamki kryształów
+@@3272
+Wypatrzony!
+@@3273
+Znajdź Marca przez lornetkę
+@@3274
+Głodna jak wilk
+@@3275
+Zabierz jedzenie ze zwłok
+@@3276
+Meteorolożka
+@@3277
+Złóż 3 części laleczki
+@@3278
+Twoja historia
+@@3279
+Obejrzyj swoją ukończoną wspinaczkę
+@@3280
+Papużki nierozłączki
+@@3281
+Wypuść latawiec Rody'ego i Johanny
+@@3282
+In memoriam
+@@3283
+Połóż origami w schronie
+@@3284
+Skok wiary
+@@3285
+Będąc na linie, rozpędź się i skocz w przepaść
+@@3286
+Dom
+@@3287
+Zejdź na dół z Markiem
+@@3288
+Nie zatrzymuj mnie
+@@3289
+Wespnij się 30 metrów bez użycia haka
+@@3290
+Kierownictwo kreatywne i produkcja
+@@3291
+Produkcja wykonawcza i wydanie
+@@3292
+Kierownictwo techniczne
+@@3293
+Kierownictwo artystyczno-techniczne
+@@3294
+Kierownictwo artystyczne i scenariusz
+@@3295
+Kierownictwo projektowania gry
+@@3296
+Kierownictwo projektowania poziomów
+@@3297
+Kierownictwo projektowania gry i poziomów
+@@3298
+Kierownictwo animacji
+@@3299
+Kierownictwo dźwięku
+@@3300
+Programowanie
+@@3301
+Grafika
+@@3302
+Projektowanie poziomów
+@@3303
+Animacja i przerywniki
+@@3304
+Fabuła i budowa świata
+@@3305
+Udźwiękowienie i muzyka
+@@3306
+Muzyka
+@@3307
+Kontrola jakości i zarządzanie wydaniami
+@@3308
+Marketing i społeczność
+@@3309
+Zarządzanie studiem
+@@3310
+Doradcy – specjaliści górscy
+@@3311
+Programowanie silnika, dźwięku i rozgrywki
+@@3312
+Programowanie rozgrywki
+@@3313
+Programowanie systemów, interfejsu i sieci
+@@3314
+Programowanie dźwięku i narzędzi
+@@3315
+Kierownictwo artystyczne, grafika koncepcyjna, grafika 2D
+@@3316
+Kierownictwo artystyczno-techniczne, grafika techniczna, efekty wizualne, narzędzia
+@@3317
+Grafika poziomów, grafika 3D
+@@3318
+Projektowanie poziomów i grafika interfejsu
+@@3319
+Budowa poziomów
+@@3320
+Grafika 3D
+@@3321
+Grafika interfejsu
+@@3322
+Projektowanie interfejsu
+@@3323
+Wsparcie efektów wizualnych
+@@3324
+Kierownictwo techniczne animacji, animacja
+@@3325
+Animacja przerywników
+@@3326
+Animacja
+@@3327
+Scenorysy
+@@3328
+Produkcja
+@@3329
+Scenariusz, dialogi
+@@3330
+Dodatkowa narracja i projekt świata
+@@3331
+Dodatkowy projekt świata
+@@3332
+Kierownictwo dźwięku i udźwiękowienie
+@@3333
+Główny projektant dźwięku
+@@3334
+Udźwiękowienie
+@@3335
+Kompozycja, głos
+@@3336
+Kompozycja
+@@3337
+Kierownictwo kontroli jakości, zarządzanie wydaniami
+@@3338
+Testy jakości
+@@3339
+Szef działu wydawniczego
+@@3340
+Marketing
+@@3341
+Społeczność
+@@3342
+Montaż zwiastunów
+@@3343
+Administracja, kadry i finanse
+@@3344
+Pamięci:
+@@3345
+I pamięci naszego własnego „Capsule'a”:
+@@3346
+<i>Przy dodatkowym udziale</i>
+@@3347
+Specjalne podziękowania
+@@3348
+Testerzy
+@@3349
+Główni testerzy
+@@3350
+Testerzy online
+@@3351
+Muzyka
+@@3352
+Obsada głosowa – angielska
+@@3353
+Obsada głosowa – francuska
+@@3354
+<i>Dodatkowe role</i>
+@@3355
+<i>Podziękowania dla</i>
+@@3356
+<i>Dodatkowe role: przyjaciele i rodzina Aavy</i>
+@@3357
+Dodatkowa animacja przerywników
+@@3358
+Produkcja głosów, produkcja dźwięku i nagrania aktorskie
+@@3360
+Casting
+@@3361
+Główne zarządzanie produkcją
+@@3362
+Zarządzanie produkcją
+@@3363
+Młodsze zarządzanie produkcją
+@@3364
+Asystent/wsparcie produkcji
+@@3365
+Reżyseria głosów
+@@3366
+Dodatkowa reżyseria głosów
+@@3367
+Realizacja dźwięku
+@@3368
+Starsze kierownictwo techniczne
+@@3369
+Starsza realizacja dźwięku
+@@3370
+Zarządzanie postprodukcją
+@@3371
+Koordynacja postprodukcji
+@@3372
+Montaż dźwięku
+@@3373
+Szef produkcji
+@@3374
+Szef postprodukcji
+@@3375
+Kierownictwo kreatywne
+@@3376
+Zarządzanie partnerstwami z klientami
+@@3377
+Studia nagraniowe / produkcja dźwięku i nagrania aktorskie
+@@3379
+Usługi postprodukcji dźwięku:
+@@3381
+spółka Lucasfilm Ltd.
+Marin County, Kalifornia
+@@3382
+Studia nagrań dźwięku
+@@3385
+Kierownictwo produkcji
+@@3386
+Reżyseria, layout i animacja
+@@3387
+IT – kierownictwo techniczne
+@@3388
+Koordynacja animacji
+@@3389
+Layout i animacja
+@@3390
+Layout i animacja, grafika 3D
+@@3391
+Artyści foley
+@@3392
+Mikser foley
+@@3393
+Księgowość postprodukcji dźwięku
+@@3394
+Szef finansów i planowania produkcji
+@@3395
+Lokalizacja
+@@3396
+Tłumaczenie na angielski
+@@3397
+Portugalski (Brazylia)
+@@3398
+Niemiecki
+@@3399
+Włoski
+@@3400
+Koreański
+@@3401
+Rosyjski
+@@3402
+Hiszpański
+@@3403
+Chiński uproszczony
+@@3404
+Chiński tradycyjny
+@@3405
+Tłumaczenie na japoński
+@@3406
+Tłumaczenie na japoński (On the Trail)
+@@3407
+Globalne zarządzanie projektem
+@@3408
+Lokalne zarządzanie projektem
+@@3409
+Tłumaczenie
+@@3410
+Korekta
+@@3411
+Zewnętrzna kontrola jakości
+@@3412
+Wsparcie marketingu i PR
+@@3414
+Kakehashi Games (Japonia)
+@@3415
+Game Dash PR (Chiny)
+@@3416
+Współzałożyciel
+@@3417
+Specjalista ds. marketingu
+@@3418
+Oprogramowanie pośrednie
+@@3419
+Przy wsparciu Funduszu Wsparcia Gier Wideo (FAJV),
+współfinansowanego przez Narodowe Centrum Kinematografii i Obrazu Ruchomego (CNC).
+@@3420
+Współfinansowane przez Unię Europejską
+@@3421
+Przy wsparciu Montpellier Méditerranée Métropole
+@@3422
+© 2026. Wszelkie prawa zastrzeżone.
+@@3423
+Dziękujemy, że dotarłeś na szczyt.
+@@3424
+A ty – jaki jest twój szczyt?
+@@3427
+Wwise © 2006–2026 Audiokinetic Inc. Wszelkie prawa zastrzeżone.
+@@3428
+Fabuła napędzana przez ink od inkle.
+@@3433
+Na licencji MIT:
+@@3440
+Zarządzanie kontrolą jakości
+@@3441
+Prezes
+@@3442
+Muzyka oryginalna:
+@@3443
+Remiks

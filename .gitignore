@@ -1,0 +1,13 @@
+# Pliki gry – nie publikujemy oryginalnych ani zmodyfikowanych danych gry
+backup/
+build/
+*.bundle
+# Angielskie teksty wyciągnięte z gry (patch_loc.py czyta je bezpośrednio z pakietu)
+translation/src/
+translation/en_unique.json
+# Wyciągnięte czcionki i atlasy (potrzebne tylko build_fonts.py)
+fontsx/
+__pycache__/
+*.pyc
+.venv/
+venv/

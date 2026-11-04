@@ -1,0 +1,650 @@
+@@1022
+Nieziemski grzyb o silnym działaniu halucynogennym.
+@@1023
+Puszka wody gazowanej. Lepsze to niż nic.
+@@1024
+Mały karton mleka. Mam nadzieję, że się nie zepsuło.
+@@1025
+Alpine Cola. Nie zapomnij skompostować puszki.
+@@1026
+Puszka Yellow Yak. Zabawne, że opakowanie jest czerwono-zielone zamiast żółtego.
+@@1027
+Mleko malinowe. Przenosi mnie prosto do przedszkola.
+@@1028
+Małe pamiątki z chwil, których nie chcę zapomnieć.\n\n<b>Na plecaku:</b> {0}
+@@1029
+Spadająca gwiazda symbolizująca sukces dawnej wspinaczki.
+@@1030
+Szczekuszka Sprzątaczka, gwiazda dbania o środowisko w górach.
+@@1031
+Amulet troglodytów używany w obrzędach wejścia w dorosłość. Swój obrzęd mam już za sobą.
+@@1032
+Mały proporczyk troglodytów, symbol harmonii z górą.
+@@1033
+Alpine Cola produkowała te breloczki masowo, by reklamować swoje produkty wśród alpinistów.
+@@1034
+Członkowie rady troglodytów nosili te odznaki przy wszystkich ważnych decyzjach.
+@@1035
+Lizanie żaby... Nie wiem, co mnie napadło, ale nigdy tego nie zapomnę!
+@@1036
+Jest przypięta do mojego plecaka, więc teraz nie wyślizgnie mi się z palców...
+@@1037
+Alpinizm nie uczynił mnie bogatą, ale odłamek kryształu może to zrobić.
+@@1038
+Climbot na szydełku. Nie przywiązuję się zbytnio do przedmiotów, ale muszę przyznać, że to przeurocze.
+@@1039
+Karnet na ściankę wspinaczkową. Miłe wspomnienie z tych wszystkich lat treningów.
+@@1040
+Kami z drogą na szczyt. To znak!
+@@1041
+Laleczka chyba już nie działa, ale wciąż spełnia swoją drugą funkcję: wygląda zabójczo.
+@@1042
+Taki dzwoneczek, jakie zawiesza się kozom. Jego dzwonienie albo dotrzyma mi towarzystwa, albo doprowadzi mnie do szału.
+@@1043
+Namiot Yukai, mam go w kolorze żółtym. Tu na górze to właściwie mój dom.
+@@1044
+Prezent od Naomi: wygląda jak Capsule. Zabieram ze sobą kawałek domu.
+@@1045
+Gorzała w puszce. Nie mój pierwszy wybór napoju w górach, ale rozgrzeje mnie.
+@@1046
+Szczyt jest kluczem. Zdobądź go, a będziesz wolna.
+@@1047
+Wspomnienie nieosiągalnego szczytu, który jednak został zdobyty.
+@@1048
+Żel energetyczny, żeby utrzymać tempo. Wypij go tuż przed poważnym wysiłkiem.
+@@1049
+Zatwierdź
+@@1050
+Potwierdź
+@@1051
+Anuluj
+@@1052
+Anuluj (alternatywnie)
+@@1053
+Wstecz
+@@1054
+Kontynuuj
+@@1055
+Zatrzymaj
+@@1056
+Wznów
+@@1057
+Odejdź
+@@1058
+Pomiń
+@@1059
+Nawiguj
+@@1060
+Wybierz
+@@1061
+Interakcja
+@@1062
+Użyj
+@@1063
+Złap
+@@1064
+Przesuń
+@@1065
+Weź
+@@1066
+Włącz
+@@1067
+Wyłącz
+@@1068
+Otwórz
+@@1069
+Zapisz
+@@1070
+Usuń
+@@1071
+Czytaj
+@@1072
+Start
+@@1073
+Dodaj
+@@1074
+Wypij
+@@1075
+Zjedz
+@@1076
+Spożyj
+@@1077
+Usuń
+@@1078
+Przenieś
+@@1079
+Napełnij
+@@1080
+Opróżnij
+@@1081
+Zamień
+@@1082
+Obróć
+@@1083
+Obróć w lewo
+@@1084
+Obróć w prawo
+@@1085
+Odpocznij
+@@1086
+Obudź się
+@@1087
+Przerwa
+@@1088
+Czołgaj się
+@@1089
+Napraw
+@@1090
+Patrz
+@@1091
+Menu
+@@1092
+Ekwipunek
+@@1093
+Biwak
+@@1094
+Śpij
+@@1095
+Naprawa haków
+@@1096
+Otwórz plecak
+@@1097
+Gotuj
+@@1098
+Wyjdź
+@@1099
+Oklej palce
+@@1100
+Sprawdź pogodę
+@@1101
+Czekaj
+@@1102
+Podgrzej
+@@1103
+Napełnij (przy źródle)
+@@1104
+Uporządkuj plecak
+@@1105
+Wydój
+@@1106
+Weź (pełny plecak)
+@@1107
+Plecak jest pełny
+@@1108
+Napełnij (butelka nie jest pusta)
+@@1109
+Napełnij (butelka pełna)
+@@1110
+Pełne butelki
+@@1111
+Niegotowe
+@@1112
+Schowaj
+@@1113
+Załóż
+@@1114
+Puść
+@@1115
+Punkt widokowy
+@@1116
+Przetrząśnij plecak
+@@1117
+Wybierz palec
+@@1118
+Owiń taśmą
+@@1119
+Uzupełnij haki
+@@1120
+Odbierz magnezję
+@@1121
+Przybliżenie
+@@1122
+Wysokość
+@@1123
+Obrót
+@@1124
+Ruch
+@@1125
+Pokaż trasę
+@@1126
+Ukryj trasę
+@@1127
+Sprawdź mapę
+@@1128
+Zamknij mapę
+@@1129
+Czytaj mapę
+@@1130
+Przytrzymaj
+@@1131
+Wspinaj się
+@@1132
+Zacznij się wspinać
+@@1133
+Przytrzymaj, by spaść
+@@1134
+Zeskocz
+@@1135
+Zawis na linie
+@@1136
+Trzymaj linę
+@@1137
+Złap linę
+@@1138
+Zjazd na linie
+@@1139
+Rozhuśtaj się
+@@1140
+Zjedź
+@@1141
+(Przytrzymaj) Zjedź
+@@1142
+Podejdź po linie
+@@1143
+Skocz
+@@1144
+Ustabilizuj
+@@1145
+Przejdź
+@@1146
+Czekan
+@@1147
+Schowaj
+@@1148
+Wepnij się
+@@1149
+Wróć na ścianę
+@@1150
+Podnieś szczekuszkę
+@@1151
+Przytrzymaj:
+@@1152
+Trzymając linę:
+@@1153
+Z rozpędem:
+@@1154
+Przywołaj Climbota
+@@1155
+Kontekst: <b>Wspinaczka</b>
+@@1156
+Kontekst: <b>Chodzenie</b>
+@@1157
+Ruch kamery
+@@1158
+Szybkie czynności
+@@1159
+Alternatywne szybkie czynności
+@@1160
+(do włączenia w ustawieniach)
+@@1161
+W górę
+@@1162
+W dół
+@@1163
+W lewo
+@@1164
+W prawo
+@@1165
+Kontekst: <b>Chodzenie i wspinaczka</b>
+@@1166
+Czynność nr 2 <size=26>(Butelka, Barometr)</size>
+@@1167
+Czynność nr 4 <size=26>(Magnezja)</size>
+@@1168
+Czynność nr 3 <size=26>(Hak, Światło)</size>
+@@1169
+Czynność nr 1 <size=26>(Plecak, Krótki odpoczynek)</size>
+@@1170
+Kontekst: Szybkie czynności
+@@1171
+Kontekst: Zjazd na linie
+@@1172
+Kontekst: Ręczny wybór kończyn
+@@1173
+Kontekst: Plecak
+@@1174
+Kontekst: Oklejanie palców
+@@1175
+Kontekst: Interfejs
+@@1176
+Kontekst: Widok z oddali
+@@1177
+Lewa ręka
+@@1178
+Prawa ręka
+@@1179
+Lewa stopa
+@@1180
+Prawa stopa
+@@1181
+Podnieś kamerę (widok z oddali)
+@@1182
+Opuść kamerę (widok z oddali)
+@@1183
+Nałóż taśmę
+@@1184
+Zatwierdź minigrę z hakiem
+@@1185
+Anuluj minigrę z hakiem
+@@1186
+Zatwierdź gotowanie
+@@1187
+Czynność specjalna (interfejs)
+@@1188
+Przypisz czynność ponownie
+@@1189
+Poproś Marca, żeby był cicho
+@@1190
+Śpij dalej
+@@1191
+Wyłącz
+@@1192
+Dodaj do garnka
+@@1193
+Udawaj, że nie masz nic do ugotowania
+@@1194
+Odpal fajerwerki
+@@1195
+Daj odłamek kryształu
+@@1196
+Przekaż list od Rody'ego
+@@1197
+Zacznij trening od nowa
+@@1198
+Rozpocznij wspinaczkę
+@@1199
+Obudź Climbota
+@@1200
+Obudź tego przeklętego robota!
+@@1201
+Zejdź z powrotem
+@@1202
+Przetnij linę
+@@1203
+Kontynuuj z Climbotem
+@@1204
+Przyjmij
+@@1205
+Odmów
+@@1206
+Bądź częścią całości
+@@1207
+Strzelaj
+@@1208
+Rozpalić ten kocioł?
+@@1209
+Połóż origami
+@@1210
+Poliż
+@@1211
+Idź poszukać Marca
+@@1212
+Wyrzuć danie
+@@1213
+Zapal
+@@1214
+Ocuć
+@@1215
+Zgiń
+@@1216
+Łów ryby
+@@1217
+Złap
+@@1218
+Dalej
+@@1219
+Wstecz
+@@1220
+Przejrzyj trasę
+@@1221
+Odtwórz wiadomość
+@@1222
+Rozwiń linę
+@@1223
+Czynność nr 4 <size=26>(Magnezja, Stan palców)</size>
+@@1224
+Włącz
+@@1225
+Oklej
+@@1226
+Wzleć
+@@1227
+Krótka przerwa
+@@1228
+Natychmiastowe oklejanie palców
+@@1229
+Weź czekan
+@@1230
+Schowaj czekan
+@@1231
+Załóż raki
+@@1232
+Zdejmij raki
+@@1233
+Czynność nr 1 <br><size=20>(Plecak, Krótki odpoczynek)</size>
+@@1234
+Czynność nr 2 <br><size=20>(Butelka, Barometr)</size>
+@@1235
+Czynność nr 3 <br><size=20>(Hak, Światło)</size>
+@@1236
+Czynność nr 4 <br><size=20>(Magnezja, Stan palców)</size>
+@@1237
+Czy na pewno chcesz wyjść z trybu fotograficznego?
+@@1238
+Czy na pewno chcesz zresetować tryb fotograficzny?
+@@1239
+Obróć kamerę
+@@1240
+Wysokość kamery
+@@1241
+Wyświetlanie kursora myszy
+@@1242
+Przełącz siatkę trójpodziału
+@@1243
+Zrób zrzut ekranu
+@@1244
+Kamera
+@@1245
+Obiektyw
+@@1246
+Efekty
+@@1247
+Postacie
+@@1248
+Otoczenie
+@@1249
+Oświetlenie
+@@1250
+Nagrywanie
+@@1251
+Filtr
+@@1252
+Czarno-biały
+@@1253
+Sepia
+@@1254
+Pole widzenia
+@@1255
+Winieta
+@@1256
+Światło kija
+@@1257
+Przechylenie
+@@1258
+Zniekształcenie kolorów
+@@1259
+Zniekształcenie obiektywu
+@@1260
+Odległość ostrzenia
+@@1261
+Przysłona
+@@1262
+Intensywność ziarna
+@@1263
+Rozmiar ziarna
+@@1264
+Wyświetlanie robota
+@@1265
+Robot i lina
+@@1266
+Tylko robot
+@@1267
+Pora dnia
+@@1268
+Świt
+@@1269
+Wschód słońca
+@@1270
+Rano
+@@1271
+Południe
+@@1272
+Popołudnie
+@@1273
+Zachód słońca
+@@1274
+Zmierzch
+@@1275
+Noc
+@@1276
+Pogoda
+@@1277
+Bezchmurnie
+@@1278
+Mżawka
+@@1279
+Deszcz
+@@1280
+Burzowo
+@@1281
+Burza z piorunami
+@@1282
+Sztorm
+@@1283
+Mgła
+@@1284
+Swobodna
+@@1285
+Panoramiczna
+@@1286
+Zza ramienia
+@@1287
+Ustawienie 1
+@@1288
+Ustawienie 2
+@@1289
+Ustawienie 3
+@@1290
+Zamierzasz zapisać w tym ustawieniu wartości kategorii: <b>Obiektyw</b>, <b>Efekty</b> i <b>Światła</b>. Inne zmiany nie zostaną zapisane.
+@@1291
+Wczytanie tego ustawienia nadpisze wartości kategorii: <b>Obiektyw</b>, <b>Efekty</b> i <b>Światła</b>
+@@1292
+Poświata
+@@1293
+Tryb
+@@1294
+Ręczny
+@@1295
+Krajobraz
+@@1296
+Portret
+@@1297
+Makro
+@@1298
+Kuwahara
+@@1299
+Lo-Fi
+@@1300
+Próg
+@@1301
+Negatyw
+@@1302
+Postawa Aavy
+@@1303
+Bieg
+@@1304
+Siedzenie
+@@1305
+Pochylenie
+@@1306
+Z kijem
+@@1307
+Czytanie dróg
+@@1308
+Wyczerpanie
+@@1309
+Klęczenie
+@@1310
+Dreszcze
+@@1311
+Leżenie
+@@1312
+Ołówek
+@@1313
+Raster
+@@1314
+Glitch
+@@1315
+Pokaż: {0}
+@@1316
+Przesunięcie pozycji Marca
+@@1317
+Przesunięcie obrotu Marca
+@@1318
+<b>Zdjęcie zapisano w:</b> {0}
+@@1319
+Folder ze zdjęciami
+@@1320
+Mimika Aavy
+@@1321
+Ból
+@@1322
+Grymas
+@@1323
+Uśmiech
+@@1324
+Język na wierzchu
+@@1325
+Szarości strażnika
+@@1326
+Sepia kolejki linowej
+@@1327
+Malarz pustelnik
+@@1328
+Rytownictwo haków
+@@1329
+Barwniki troglodytów nr 1
+@@1330
+Barwniki troglodytów nr 2
+@@1331
+Barwniki troglodytów nr 3
+@@1332
+Grzybowa wizja
+@@1333
+Zabawka szczekuszka
+@@1334
+Noktowizja
+@@1335
+Wadliwy climbot
+@@1336
+Filmowy
+@@1337
+Widok deweloperski: Z-Buffer
+@@1338
+Widok deweloperski: normalne
+@@1339
+Widok deweloperski: normalne ekranu
+@@1340
+Widok deweloperski: trójkąty
+@@1341
+Widok deweloperski: obiekty
+@@1342
+Ogniskowa
+@@1343
+Kadry filmowe
+@@1344
+Kontrast
+@@1345
+Gamma
+@@1346
+Światło {0}

@@ -1,0 +1,460 @@
+@@478
+Klawiatura i mysz
+@@479
+Zmień sterowanie
+@@480
+Konflikt przypisań
+@@481
+Chcesz przypisać {0} do <b>{1}</b>, ale jest już przypisane do <b>{2}</b>.<br><br>Czy na pewno chcesz kontynuować?
+@@482
+Występuje <b>1</b> konflikt przypisań. Zmień przypisania lub przywróć domyślne, by wrócić do menu Ustawienia.
+@@483
+Liczba konfliktów przypisań: <b>{0}</b>. Zmień przypisania lub przywróć domyślne, by wrócić do menu Ustawienia.
+@@484
+Czy na pewno chcesz zresetować sterowanie?
+@@485
+Zostanie przywrócone domyślne sterowanie.
+@@486
+Porusz gałką, by przypisać
+@@487
+Porusz nową osią, by przypisać
+@@488
+Naciśnij nowy klawisz, by przypisać
+@@489
+Oś pozioma kamery
+@@490
+Oś pionowa kamery
+@@491
+Odwrócona
+@@492
+Czułość myszy
+@@493
+Siła wibracji
+@@494
+Głośnik DualSense™
+@@495
+Wyjście audio DualSense™
+@@496
+Głośnik
+@@497
+Słuchawki
+@@498
+Siła efektu spustów DualSense™
+@@499
+Słaba
+@@500
+Silna
+@@502
+Napisy
+@@503
+Rozmiar napisów
+@@504
+Małe
+@@505
+Duże
+@@506
+Tło napisów
+@@507
+Imiona postaci
+@@508
+Pauza
+@@509
+Tryb fotograficzny
+@@510
+Wytrzymałość\n{0}
+@@511
+Skupienie
+@@512
+Skupienie\n{0}
+@@513
+Chwyt
+@@514
+Chwyt\n{0}
+@@515
+Siła
+@@516
+Siła\n{0}
+@@517
+Temperatura
+@@518
+Temperatura\n{0}
+@@519
+Hart
+@@520
+Hart\n{0}
+@@521
+Zryw
+@@522
+Zryw\n{0}
+@@523
+Mocny chwyt
+@@524
+Mocny chwyt\n{0}
+@@525
+Bardzo słodkie
+@@526
+Kremowe
+@@527
+Intensywne
+@@528
+Ziołowe
+@@529
+Mieszane
+@@530
+Flambirowane
+@@531
+Rzadkie
+@@533
+Jest moc!
+@@534
+Kto... co... hę??
+@@535
+Ekwipunek pełny
+@@536
+Brak monet
+@@537
+Ostatni zapis: {0}
+@@538
+Hak samowkręcający
+@@539
+Haki samowkręcające: {0}
+@@540
+Złom z haków
+@@541
+Złom z haków: {0}
+@@542
+Idealnie!
+@@543
+Wygięty!
+@@544
+Złamany!
+@@545
+Skała jest zbyt twarda!
+@@546
+Brak haków
+@@547
+WSPINACZKA DOBIEGŁA KOŃCA
+@@548
+Omdlenie
+@@549
+Wytrzymałość odnowiona!
+@@550
+Zawartość plecaka jest niedostępna podczas wspinaczki.
+@@551
+Taśma pękła!
+@@552
+Ranna dłoń!
+@@553
+Zbyt duże pragnienie!
+@@554
+Zbyt duży głód!
+@@555
+Zbyt zimno!
+@@556
+Łatwiej
+@@557
+Trudniej
+@@558
+To unikatowy przedmiot. Mimo to skompostować?
+@@559
+<b>Naprawiono haki: {0}!</b>
+@@560
+<b>Naprawiono 1 hak!</b>
+@@561
+Plecak jest pełny. Zrób trochę miejsca, zanim ugotujesz to danie.
+@@562
+Połączenie przychodzące
+@@563
+odtwarzanie poczty głosowej
+@@564
+1 nowa wiadomość
+@@565
+Przywołaj
+@@566
+Zajęty
+@@567
+Gotowy
+@@568
+Odzyskaj 1 hak (w użyciu: {0})
+@@569
+Doskonały stan
+@@570
+Dobry stan
+@@571
+Niepokojący stan
+@@572
+Ranna
+@@573
+Odpoczynek
+@@574
+{0}<br><br><color=#FF7C7C><b>Laleczka na razie nie działa.</b></color>
+@@575
+Potrząsasz laleczką troglodytów.
+@@576
+Pogoda się przejaśnia.
+@@577
+Szarotka drży...
+@@578
+Użyj szarotki, by wspinać się dalej, albo wybierz śmierć.
+@@579
+Wspinaczka zapisana
+@@580
+Postęp zostanie tymczasowo zapisany i tylko raz będzie można wznowić grę od tego miejsca.
+@@581
+Postęp zostanie zapisany i będzie można wznowić grę od tego miejsca.
+@@582
+Twój obecny stan nie pozwala na szybki zapis. Jeśli teraz wyjdziesz, <b><color=#FF7C7C>stracisz cały postęp od ostatniego zapisu gry.</color></b>
+@@583
+Zamierzasz wczytać starszy punkt zapisu. <b>Cały postęp od tego punktu zostanie utracony!</b>
+@@584
+Klątwa?
+@@585
+Ostatni zapis: {0} min {1} s temu
+@@586
+Ukryj interfejs
+@@587
+gratulacje
+@@588
+<b>Dziękujemy za zagranie w demo Cairn!</b><br>Możesz nas dalej wspierać, dodając grę do listy życzeń na Steamie.
+@@589
+Przejdź do Steama
+@@590
+Wróć do ekranu tytułowego
+@@591
+<b>Dziękujemy za grę!</b> Możesz nas dalej wspierać, <b>dodając grę do listy życzeń na Steamie!</b>
+@@592
+Super!
+@@593
+Zapisane gry
+@@594
+Konfiguracje
+@@595
+Szczyt zdobyty!
+@@596
+Powrót do domu.
+@@597
+Czy na pewno chcesz wyjść? W trybie Free solo postęp nie jest zapisywany na biwakach. <color=#FB3838><b>Jeśli teraz wyjdziesz, będziesz musiała zacząć od początku.</b></color>
+@@598
+Gotowa na Kami?
+@@599
+Koniec wspinaczki!
+@@600
+Możesz wczytać zapis w menu wyboru slotu gry, by przejrzeć swoją trasę.
+@@601
+Maksymalny chwyt
+@@602
+Dobry chwyt
+@@603
+Słaby chwyt
+@@604
+Czy chcesz pominąć strefę ćwiczeń?
+@@605
+Ćwicz ponownie
+@@606
+Wybierz zapis, by <b>przejrzeć swoją trasę</b>, albo zwiedź każdy zakątek Kami w trybie <b>swobodnej eksploracji</b>.
+@@607
+Czułość kamery
+@@608
+Zatwierdź i anuluj
+@@609
+Wybierz „Odwrócone”, by w menu przypisać „Zatwierdź” do {0}, a „Anuluj” do {1}.
+@@610
+Ukryj pająki
+@@611
+Pająki nie mają wpływu na rozgrywkę. Włącz tę opcję, by całkowicie je ukryć.
+@@612
+Ukryj krew
+@@613
+Gdy Aava ma mało zdrowia, może być zakrwawiona. Włącz tę opcję, by ukryć ten efekt wizualny.
+@@614
+Ukryj błyski światła
+@@615
+Podczas rozgrywki i w trakcie fabuły mogą się pojawiać błyski światła. Włącz tę opcję, by je ukryć.
+@@616
+Sygnalizacja oddechu
+@@617
+Włącz tę opcję, by wyświetlać efekt wizualny odwzorowujący oddech Aavy. Podczas wspinaczki oddech wskazuje bieżący wysiłek.
+@@618
+Ekran tytułowy (szybki zapis)
+@@619
+Wyjdź (szybki zapis)
+@@620
+Nigdy nie poczujesz głodu, pragnienia ani zimna.
+@@621
+Nigdy nie poczujesz głodu, pragnienia ani zimna. Twoje palce nigdy nie zostaną zranione.
+@@622
+Nieskończone zasoby sprzętu wspinaczkowego
+@@623
+Zawsze będziesz mieć w plecaku haki, magnezję i taśmę wspinaczkową.
+@@624
+Pokazuj czas w grze
+@@625
+Dodatki
+@@626
+W drodze...
+@@627
+W pobliżu
+@@628
+Odzyskiwanie haka ({0}/{1})
+@@629
+Nie działa
+@@630
+Rozdzielczość renderowania 3D
+@@631
+Ustawienie inne niż „Natywna” obniży jakość renderowania 3D przy zachowaniu rozdzielczości ekranu.
+@@632
+Jakość skał
+@@633
+Pozwala dostosować poziom tekstur skał i odległość, z jakiej wyświetlane są najbardziej szczegółowe tekstury.
+@@634
+Jakość otoczenia
+@@635
+Pozwala dostosować poziom szczegółów otoczenia i gęstość roślinności.
+@@636
+Jakość oświetlenia
+@@637
+Pozwala dostosować poziom szczegółów cieni i odległość, z jakiej są wyświetlane.
+@@638
+Postprocessing
+@@639
+Pozwala wyłączyć niektóre funkcje przetwarzania obrazu, które mogą obniżać wydajność na starszych konfiguracjach.
+@@640
+Własne
+@@641
+Natywna
+@@642
+W demie Cairn trwa specjalne wydarzenie: w Tenzen możesz zobaczyć duchy innych graczy. Czy chcesz je włączyć?
+@@643
+Natychmiastowe oklejanie palców
+@@644
+Pozwala od razu okleić palec, bez ręcznego nakładania taśmy.
+@@645
+<b><color=red>Uwaga, wspinaczu!</color></b>
+
+W trybie Free solo nie możesz zapisywać gry na biwakach. Aby tymczasowo zapisać postęp, musisz <b>wrócić do ekranu tytułowego lub wyjść z gry przez menu pauzy.</b>
+@@646
+Jakość
+@@647
+Wydajność
+@@648
+Tryb wydajności zapewnia płynniejszą rozgrywkę, ale obniża jakość renderowania 3D oraz poziom szczegółów cieniowania i otoczenia.
+@@649
+Nowe
+@@650
+Rozpocznij swobodną eksplorację
+@@651
+Utworzyć slot swobodnej eksploracji?
+@@652
+Zmień postać
+@@653
+Zmień
+@@654
+Swobodna eksploracja
+@@655
+Wybierz cel
+@@656
+Szybka podróż
+@@657
+Odkryte znaczniki: {0}/{1}
+@@658
+Znacznik: {0}
+@@659
+Zobacz odkryte znaczniki
+@@660
+Miejsce biwakowe {0}
+@@661
+Wyświetlana trasa: {0}
+@@662
+Wspinaczka
+@@663
+Wszystko
+@@664
+Jeśli zmienisz plecak, jego zawartość zostanie zresetowana po wczytaniu zapisu.
+@@665
+Automatyczne oklejanie palców
+@@666
+Pozwala okleić palec bez ręcznego nakładania taśmy.
+@@667
+Wszystkie sloty zapisu są zajęte. Usuń jeden, by utworzyć slot swobodnej eksploracji.
+@@668
+Szybka podróż do ostatniego znacznika
+@@669
+Automatyczne oklejanie palców
+@@670
+<b>Dziękujemy za zagranie w demo Cairn!</b><br>Rozpocznij wspinaczkę na Kami, kupując pełną wersję gry na Steamie. Twój postęp zostanie zachowany.
+@@671
+Przewodnik po Kami
+@@672
+Stwórz koszulkę ze swojej wspinaczki
+@@673
+Wybierz slot zapisu ze wspinaczką, którą chcesz uwiecznić.
+@@674
+Generujemy unikatowy kod QR twojej wspinaczki, zawierający wszystkie istotne informacje.
+@@675
+Zeskanuj kod QR, by odwiedzić stronę naszego partnera drukarskiego, obejrzeć podgląd koszulki i ją zamówić!
+@@676
+Otwórz w przeglądarce
+@@677
+Nie można połączyć się z serwerem. Sprawdź połączenie z internetem i/lub zaporę sieciową, a następnie spróbuj ponownie.
+@@678
+Demo
+@@679
+Piersiówka
+@@680
+Duża piersiówka
+@@681
+Mała butelka
+@@682
+Butelka
+@@683
+Duża butelka
+@@684
+Bardzo duża butelka
+@@685
+Kanister na wodę
+@@686
+Karton mleka
+@@687
+Puszka Alpine Coli
+@@688
+Puszka Yellow Yak
+@@689
+Kartonik soku malinowego
+@@690
+Bidon
+@@691
+Termos
+@@692
+Termos solarny
+@@693
+Barometr
+@@694
+Climbot
+@@695
+Zepsuty aparat
+@@696
+Założone haki
+@@697
+Hak troglodytów
+@@698
+Magnezja
+@@699
+Woreczek na magnezję
+@@700
+Duży woreczek na magnezję
+@@701
+Taśma wspinaczkowa
+@@702
+Świecące rękawiczki
+@@703
+Mały wiatraczek
+@@704
+Koc ratunkowy
+@@705
+Najwyższy skok
+@@706
+Czysta woda
+@@707
+Kozie mleko
+@@708
+Napój czekoladowy

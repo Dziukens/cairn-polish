@@ -1,0 +1,207 @@
+@@1447
+<b>Plakat o miejscowej faunie: żaba jaskiniowa.</b>
+
+<i>Żaba to kręgowiec z gromady płazów.
+
+Żaby występują na całym świecie, głównie w wilgotnym klimacie.
+
+Uwaga: ich skóra jest toksyczna, a każdy kontakt może wywołać skutki uboczne!</i>
+@@1448
+<b>Plakat o miejscowej faunie: koziorożec.</b>
+
+<i>Koziorożec to ssak z rodziny krętorogich. Jego ulubionym środowiskiem są strome ściany, poszarpane klify i urwiska. Do lasu zapuszcza się tylko wyjątkowo.
+
+Ten odpowiednik dzikiej kozy był tak długo wybijany przez myśliwych, że gatunkowi grozi dziś wyginięcie.
+
+Uwaga: bywa szczególnie agresywny wobec ludzi, którzy podejdą zbyt blisko.</i>
+@@1449
+<b>Plakat o miejscowej faunie: salamandra.</b>
+
+<i>Salamandry mają do 20 cm długości i oleistą, lśniącą skórę.
+
+Poruszają się powoli i nie są zbyt zwinne (w porównaniu z jaszczurkami).
+
+Na otwartym terenie nie potrafią uciec przed drapieżnikami, ale umieją odtwarzać utracone lub zranione części ciała i bronią się, wydzielając neurotoksynę zwaną samandaryną.</i>
+@@1450
+<b>Tablica ostrzegawcza.</b>
+
+<i>Niebezpieczeństwo!
+
+Kami to góra typu 4, sklasyfikowana jako skrajnie niebezpieczna.
+
+Wysokie ryzyko: upadków, obrażeń, lawin, silnego wiatru.
+
+Stanowczo odradzamy wszelkie próby wejścia. Kami jest zarezerwowana dla zawodowców z ważnym zezwoleniem.</i>
+@@1451
+<b>Mapa okolicy.</b>
+
+<i>Ponad tuzin dróg wspinaczkowych na tym odcinku Kami, jednych z najbardziej wymagających w okolicy.
+
+Wspinaczy prosi się o zachowanie szczególnej ostrożności na tych drogach:
+- Eksponowane odcinki
+- Techniczne odcinki pionowe
+- Spadające kamienie i niestabilne podłoże</i>
+@@1452
+<b>Zaginiona.</b>
+
+<i>Niepokojące zaginięcie turystki: jej samochód znaleziono u podnóża Kami, ale od tamtej pory nie mamy żadnych wieści od Anity. Według bliskich jest prawdziwą sportsmenką. Jej zaginięcie zgłosił pracodawca, gdy nie stawiła się w pracy.
+
+Anita jest szczupła i ma 1,80 m wzrostu. Ma średniej długości jasnobrązowe włosy.
+
+Jeśli masz jakiekolwiek informacje o miejscu jej pobytu lub zaginięciu, natychmiast skontaktuj się z patrolem górskim.</i>
+@@1453
+<b>Stary kawałek papieru z na wpół wyblakłym drukiem.</b>
+
+Napisano na nim:
+
+<i>jaskinia niżej .. <nobr>d a r m o w a m u z y k a</nobr></i>
+@@1454
+<b>Rada od Szczekuszki Sprzątaczki.</b>
+
+<i>Szczekuszka Sprzątaczka mówi: góry to nie śmietnik, zabieraj swoje śmieci!</i>
+@@1455
+<b>Plakat ostrzegawczy o miejscowych tradycjach.</b>
+
+<i>Zabrania się zabierania, przestawiania, a nawet dotykania małych figurek, które można znaleźć przy szlaku.
+
+Rzeźby te są nieodłączną częścią kultury troglodytów i symbolizują samą górę Kami.</i>
+@@1456
+<b>Konkurs fotograficzny!</b>
+
+<i>Pasjonują cię góry i ich dzika przyroda?
+
+Chcesz wyrazić swój talent artystyczny?
+
+Chwytaj więc aparat i dziel się z nami najlepszymi ujęciami w mediach społecznościowych!</i>
+@@1457
+<b>Skserowana mapa wskazująca tajemne miejsce na górze Kami.</b>
+
+Jest na niej pasek reklamowy: <i>Miód z Kami. Słynny w całym regionie, pochodzenie nieznane. Podobno zbiera go pustelnik, który bardziej niż ludzki świat ceni brzęczenie owadów.</i>
+
+Odręczna notatka głosi: <i><color=#FF0004>Słyszałem, że gdzieś tutaj ukrywa się pszczelarz. Kilku alpinistów przysięga, że go widziało. Uważaj na pszczoły!</i></color>
+@@1458
+<b>Do listu dołączono mapę.</b>
+
+<i>To schronienie wygląda w sam raz na kilka dni – zostań. Do tego będziesz mieć wspaniały widok!</i>
+@@1459
+<b>Ręcznie narysowana mapa.</b>
+
+Widnieje na niej napis: <i>„Przyjaciele, jeśli znajdziecie trzy części laleczki, która przegania chmury – szczere gratulacje, bo ukryłam je naprawdę dobrze!”</i>
+@@1460
+<b>Nowoczesna mapa. Jest zatytułowana „Origami na dachu świata”.</b>
+
+Jest na niej lista imion:
+
+- <sprite="UI_ICON_Cairn_TMPSpritesheet" name="TMPspr_Ori_Bear" color=#000000> Emil, kierownik wyprawy
+- <sprite="UI_ICON_Cairn_TMPSpritesheet" name="TMPspr_Ori_Bird" color=#000000> Solal, pierwsza pomoc
+- <sprite="UI_ICON_Cairn_TMPSpritesheet" name="TMPspr_Ori_Pika" color=#000000> Aurel, trasa
+- <sprite="UI_ICON_Cairn_TMPSpritesheet" name="TMPspr_Ori_Ibex" color=#000000> Elsa, przewodniczka troglodytka
+- <sprite="UI_ICON_Cairn_TMPSpritesheet" name="TMPspr_Ori_Lynx" color=#000000> Yamina, dokumentalistka
+
+I odręczna notatka:
+
+<i>Climbot V4 przeszukał ścianę zeszłej nocy, żeby rozpoznać drogi. Ściana przed nami to prawdziwe piekło... Wysłał niepokojące sygnały alarmowe, ale nie udało się ustalić, skąd dokładnie pochodzą.</i>
+@@1461
+<b>Do mapy dołączono plan trasy.</b>
+
+Przy pierwszym wpisie nabazgrano notatkę:
+
+<i>Szukaliśmy Yaminy wszędzie przez 3 dni, ale nie zostawiła żadnego śladu. Nie możemy dłużej odkładać wspinaczki, bo nikt z nas nie przeżyje. Emil mówi, że przysięgała, że niedawno widziała rysia znikającego w snopie światła – miała na tym punkcie obsesję. Mam nadzieję, że znajdziemy ją wyżej.</i>
+@@1462
+Drogi Gabrielu,
+
+jestem zdruzgotany. Twoja gorączka nigdy nie spadła, a rana na nodze zagoiła się za późno mimo moich okładów.
+
+Czy powinniśmy byli zejść na dół, jak prosiłeś trzy dni temu?
+
+Myślałem, że znalezienie perłowej szarotki rozwiąże wszystkie nasze problemy.
+
+Wiem, że nigdy nie podobało ci się moje zainteresowanie całym tym troglodyckim folklorem, ale wyobrażasz sobie – kwiat o cudownych właściwościach, który leczy nawet umierających!?
+
+Wybacz, że czepiam się tej myśli, to była jedyna nadzieja, jaka mi została.
+
+„Szczyt Kami jest dla nas dwóch i dla nikogo więcej”.
+
+Ta obietnica brzmi teraz szczególnie złowieszczo.
+
+Ale pozwól mi poszukać jeszcze trochę, dobrze?
+
+Zostań tutaj, zachowaj swój ostatni oddech dla szarotki.
+
+Niedługo wrócę.
+
+Roberto
+@@1463
+Gabrielu,
+
+idę wolniej, niż się spodziewałem; moje umiejętności alpinistyczne nigdy, niestety, nie dorównywały twoim.
+
+Moje poszukiwania są równie bezowocne. Gdzie jest ten głupi kwiat!? Dziś wyruszam do wioski, którą widzieliśmy na początku wyprawy. Mam nadzieję, że znajdę pomoc.
+
+Ale czy to ma sens? Wydawałeś ostatnie tchnienie, a ja odszedłem pod wpływem impulsu, myśląc, że zdołam odwrócić bieg rzeczy.
+
+Teraz modlę się, żeby ta roślina potrafiła wskrzeszać umarłych...
+
+Jak ci mówiłem, potrzebuję się czegoś trzymać.
+
+Zresztą, nie ma pożegnania, dopóki do ciebie piszę, prawda? Idźmy więc dalej razem, dobrze?
+
+Roberto
+@@1464
+Drogi Gabrielu,
+
+znalazłem wioskę!
+
+Troglodyci są tacy, jak opisywano ich w starych księgach historycznych z miejskiej biblioteki w Santa Meranzie.
+
+Surowe życie codzienne przekłada się na bardzo surowe usposobienie i niestety nie przyjęto mnie w ich domach, nie udało mi się nawet nawiązać rozmowy z nielicznymi dorosłymi, których spotkałem.
+
+Dzieci za to chętniej odpowiadały na moje pozdrowienia i były dużo bardziej niż starsi ciekawe naszego życia w mieście.
+
+Szkoda, że nie widziałeś ich min, kiedy opisywałem samochody, telewizję i roboty!
+
+Tak czy inaczej, perłowa szarotka jest nieodłączną częścią ich codzienności: ona istnieje, Gabrielu!
+
+Ale odbiegam od tematu, a ty pewnie narzekasz, że tracę czas na te głupstwa, zamiast pamiętać o naszym jedynym celu.
+
+Ściskam cię mocno,
+
+Roberto
+@@1465
+Gabrielu,
+
+dzieci z wioski towarzyszyły mi tak daleko, jak im pozwolono, ale znów jestem sam i wspinam się po tej porowatej skale.
+
+Uwielbiałbyś słuchać ich opowieści, są absolutnie fascynujące. Życie tutaj jest zupełnie inne.
+
+Na początku myślałem, że mam do czynienia z niepiśmiennymi, nieokrzesanymi wieśniakami, ale to nieprawda.
+
+Mają własną szkołę, wiedzę i literaturę. Pod wieloma względami kultura troglodytów jest starsza od naszej, po prostu poszliśmy innymi ścieżkami.
+
+Mają szczególnie osobliwą relację z górą. Góra żyje, w dosłownym sensie tego słowa. Oddycha, trzeszczy, czasem dudni.
+
+W różnych miejscach stoją rzeźby przedstawiające Kami, ale to nie jest religia w ścisłym znaczeniu tego słowa. To raczej współistnienie, symbioza.
+
+Mam nadzieję, że tych kilka zdań zaciekawi cię tak jak mnie.
+
+Do zobaczenia wkrótce,
+
+Roberto
+@@1466
+Przyjacielu,
+
+opadam z sił. Warunki pogodowe są tu trudne. Nawet nie pamiętam, kiedy się rozstaliśmy. Dni zlewają mi się w głowie, a odległe wspomnienia są mniej zamazane niż to, co jadłem wczoraj.
+
+Pamiętam cię, gdy jako trzynastolatek przekraczałeś bramę sierocińca Bernardo.
+
+Pamiętam też twoje oczy. Przenikliwe, oczy kogoś, kto mimo młodego wieku wiele już widział i przeżył.
+
+I twoją miłość do książek. Zwłaszcza tych, które opowiadały o wielkich ludzkich epopejach. Ty, który nie miałeś nazwiska, uwielbiałeś zapamiętywać nazwiska tych, których czyny podziwiałeś.
+
+Przy tobie i ja nauczyłem się kochać te historie. Spędzaliśmy w bibliotece całe godziny, marząc o ośnieżonych szczytach, po których stąpali najodważniejsi.
+
+Artykuły o Kami, królowej gór. I to szaleństwo, kiedy poszedłem za tobą na nierozsądną wyprawę, gdy tylko staliśmy się pełnoletni.
+
+Ale w sumie, czy mieliśmy coś lepszego do roboty ze swoim życiem, kiedy opuściliśmy sierociniec?
+
+Roberto – biedny głupiec, który wciąż się wspina, sam ze swoim duchem.

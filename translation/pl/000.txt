@@ -1,0 +1,367 @@
+@@0
+Nieznane
+@@1
+Łączny czas
+@@2
+Łączny czas w grze
+@@3
+Użyte przedmioty
+@@4
+Pogoda
+@@5
+Największa odległość między dwoma hakami
+@@6
+Łączny przebyty dystans
+@@7
+Droga
+@@8
+Oszukujesz?
+@@9
+Początek wspinaczki
+@@10
+Zasady
+@@11
+Odpadnięcia
+@@12
+Śmierci
+@@13
+Wbite haki
+@@14
+Liczba dyno
+@@15
+Biwaki
+@@16
+Regeneracje
+@@17
+Zawisy na linie
+@@18
+Zjazdy na linie
+@@19
+Liczba mantli
+@@20
+Dystans pieszo
+@@21
+Dystans biegiem
+@@22
+Najczęściej używany przedmiot
+@@23
+Drugi najczęściej używany przedmiot
+@@24
+Trzeci najczęściej używany przedmiot
+@@25
+Wszystkie użyte przedmioty
+@@26
+Zresetowany czas (odcinki przy życiu)
+@@38
+Wytrzymałość
+@@39
+Gęstość
+@@40
+Zanikanie interfejsu
+@@41
+Liczba klatek
+@@43
+W tym soku jest dwanaście różnych owoców... ale nie rozpoznaję żadnego. Brawo, marketingowcy.
+@@44
+Bandaże
+@@45
+Opatrunki na głębokie rany. Na szczęście w górach nigdy się to nie zdarza.
+@@46
+Zdrowie
+@@47
+Wyczerpanie
+@@48
+Pragnienie
+@@49
+Głód
+@@50
+Zimno
+@@51
+Pęknięty hak!
+@@52
+Ostatni oddech
+@@53
+Fatalny upadek
+@@54
+Nie udało się zinterpretować upadku
+@@55
+Użyto polecenia debugowania upadku
+@@56
+Nie udało ci się dyno
+@@57
+Porwał cię podmuch wiatru
+@@58
+Twoje zdrowie spadło do krytycznego poziomu i straciłaś przytomność
+@@59
+Nie żyjesz
+@@60
+Pośliznęłaś się i straciłaś równowagę przez słabe chwyty
+@@61
+Wyczerpał cię długi wysiłek
+@@62
+Męczące chwyty szybko cię wyczerpały
+@@63
+Twoja pozycja była zbyt trudna, by się utrzymać
+@@64
+Postanowiłaś zejść ze ściany
+@@65
+Skok był za wysoki
+@@66
+Wczytaj punkt zapisu
+@@67
+Ciekawe miejsce
+@@70
+Prosta droga
+@@71
+Droga dla sportowców
+@@72
+Wietrzna droga
+@@73
+Wielka skała
+@@74
+Droga przez jaskinię
+@@75
+Najłatwiejsza wspinaczka na tej górze. Dobra pogoda i mnóstwo chwytów.
+@@76
+Całkiem ciekawa droga, stanowiąca wyzwanie dla wspinaczy każdego rodzaju.
+@@77
+Droga z różnorodnymi wyzwaniami, ale też z silnym wiatrem, który wystawi twoją wytrzymałość na próbę.
+@@78
+Trudna droga, którą można przejść za jednym zamachem, ani razu nie stawiając stopy na ziemi.
+@@79
+Droga dla odkrywców, którzy lubią niezwykłe krajobrazy i chcą zapuścić się we wnętrzności góry.
+@@94
+Droga Apy
+@@95
+460 m do szczytu.
+@@96
+Napar z jałowca
+@@97
+Pyszny napar z jagód jałowca. Ma brzoskwiniową nutę, a ta goryczka jest cudowna.
+@@98
+Napar z pokrzywy
+@@99
+Napar z pokrzywy, pyszny i bardzo relaksujący.
+@@100
+Napar z goryczki
+@@101
+Napar z korzeni goryczki. Poprawia koncentrację.
+@@102
+Słodki napar
+@@103
+Nie pamiętam, co do niego wrzuciłam, ale jest słodki i dodaje energii, więc biorę.
+@@104
+Mocny napar
+@@105
+Napar z dodatkową porcją ziół. Ma kopa.
+@@106
+Napar ostateczny
+@@107
+Mieszanka magicznych roślin Matki Góry. Na pewno doda mi energii.
+@@108
+Jajka na twardo
+@@109
+Jajka na twardo: proste, skuteczne, smaczne i pełne białka.
+@@110
+Miejscowy bimber. Nie mam pojęcia, skąd pochodzi, ale mocno pachnie ziołami.
+@@111
+Stary dobry grog. W domu, przy bólu gardła, czemu nie. Ale tutaj... nie wiem, czy to wskazane.
+@@112
+Odrobina bimbru, żeby złagodzić smak kawy. Czy to dobry pomysł, Aava?
+@@113
+Bimber w herbacie... Dobre, tylko szkoda, że jest w tym bimber.
+@@114
+Czy bimber pomaga przechowywać kozie mleko? Odpowiedź za kilka dni.
+@@115
+Dziennikarze: „Niesamowite, to wejście na Kami, jak tego dokonałaś?”
+Nikt: „Dodałam bimbru do zupy”.
+@@116
+Ten bimber jest niepijalny, ale może jeśli dodam trochę czekolady...
+@@117
+Z cukrem bimber lepiej wchodzi. Ale i tak gorzej niż woda.
+@@118
+Gorzała
+@@119
+Grog
+@@120
+Kawa po irlandzku
+@@121
+Gorący toddy
+@@122
+Biały Rosjanin
+@@123
+Góral
+@@124
+Do połowy pusta
+@@125
+Czekoladowe martini
+@@126
+Ti' punch
+@@127
+Łagodniejsze wyzwanie <font-weight="900">dla graczy szukających doświadczenia skupionego na fabule.</font-weight>
+@@128
+Zrównoważony poziom trudności: <font-weight="900">wspinaj się z pełnym ekwipunkiem i pokonuj wyzwania góry.</font-weight>
+@@129
+Wspinaj się bez żadnej asekuracji i stąpaj ostrożnie, bo śmierć jest ostateczna. Dla graczy szukających <font-weight="900">bezlitosnej wspinaczki</font-weight>.
+@@130
+Fabuła:
+@@131
+Wspinaczka:
+@@132
+Przetrwanie:
+@@133
+Tryb wspomagania:
+@@134
+Permanentna śmierć:
+@@135
+Haki:
+@@136
+Klasyczny
+@@137
+Wł.
+@@138
+Dostępne
+@@139
+Niedostępne
+@@140
+Brak
+@@141
+Poziom trudności
+@@142
+Zalecany
+@@143
+Ukończ grę raz, by odblokować Free solo
+@@144
+Plecak jest prawie pełny. Musisz skompostować przedmioty, by schować ten posiłek.
+@@145
+Wymagane kompostowanie przedmiotów!
+@@146
+Skompostuj przedmioty lub uporządkuj plecak, by zrobić miejsce na ten posiłek,
+@@147
+a następnie
+@@148
+lub
+@@149
+Za mało miejsca
+@@150
+Tak lepiej!
+@@151
+Zmiana sterowania
+@@152
+Zmiana przypisania klawiszy dla pada i klawiatury nie jest jeszcze dostępna. Ta opcja pojawi się w pełnej wersji gry.
+@@153
+Gra studia The Game Bakers
+@@154
+Autorzy już wkrótce...
+@@155
+Opcje poziomu trudności będą dostępne w pełnej wersji gry
+@@156
+Wył.
+@@157
+Statystyki
+@@158
+Odzyskano kopczyk zapisu
+@@159
+Gorąco
+@@160
+Wyślij opinię
+@@161
+Wyślij opinię zespołowi twórców
+@@162
+Wpisz tutaj swoją wiadomość...
+@@163
+Wraz z wiadomością otrzymamy dane o twoim sprzęcie (system operacyjny, CPU, GPU...) i ustawieniach gry, do celów debugowania.
+@@164
+Twoja wiadomość została wysłana, dziękujemy!
+@@165
+Podczas wysyłania wiadomości wystąpił błąd. Sprawdź połączenie i spróbuj ponownie.
+@@166
+Załóż jeden
+@@167
+Załóż wszystkie
+@@168
+Schowaj jeden
+@@169
+Schowaj wszystkie
+@@171
+Zejdź w dół
+@@172
+Zemdlałaś. Znajdź sposób, by poprawić swój stan, albo możesz zginąć na dobre.
+@@173
+Jeśli będziesz odpoczywać zbyt często, nie odzyskasz wytrzymałości.
+@@174
+W stabilnej pozycji potrząsaj ręką za pomocą {0}, by odzyskać wytrzymałość.
+@@175
+Kończynę, którą właśnie postawiłaś, możesz przesunąć za pomocą {0}, by wybrać lepszy chwyt.
+@@176
+Masz <b>tylko jeden kopczyk do zapisu</b> postępów.
+
+Gdy rozbijesz namiot w miejscu biwakowym, postęp również zostanie zapisany, a ty odzyskasz kopczyk.
+
+W widoku z oddali ({1}) sprawdź swoją trasę za pomocą {0}, by wczytać poprzedni punkt zapisu.
+@@177
+Zapisz postęp
+@@178
+Szybki marsz bywa męczący, ale rozgrzeje cię, gdy jest ci zimno.
+@@179
+Dotrzyj do miejsca biwakowego, by zapisać postęp. Tam możesz się przespać, coś ugotować lub opatrzyć rany.
+@@180
+Możesz chwilę odpocząć za pomocą {0} + {1}. Odpoczynek poza biwakiem jest mniej skuteczny.
+@@181
+Regularne wbijanie haków sprawi, że wspinaczka będzie bezpieczniejsza.
+@@182
+Złap linę za pomocą {0} i podejdź z powrotem w górę za pomocą {1} + {2}. Zwiększy to twoje wyczerpanie.
+@@183
+W deszczu twój chwyt jest słabszy. Rozbij biwak i poczekaj na lepszą pogodę.
+@@184
+Uważaj na podmuchy wiatru podczas burzy! Stąpaj ostrożnie, by nie spaść.
+@@185
+Planuj z wyprzedzeniem, wypatrując dróg wspinaczkowych. Możesz też obserwować ścianę z daleka za pomocą {0}.
+@@186
+Przytrzymaj {0}, sterując jedną ręką, by się wyciągnąć i sięgnąć dalszych chwytów.
+@@187
+Możesz włączyć świetlik za pomocą {0} + {1}.
+@@188
+Używaj haków strategicznie, by uniknąć bolesnych upadków. Regularne wbijanie haków sprawi, że wspinaczka będzie bezpieczniejsza.
+@@189
+Gdy wisisz na linie, odzyskujesz całą wytrzymałość i masz dostęp do zawartości plecaka.
+@@190
+Używaj kopczyków, by zapisywać postęp. Nowe kopczyki dostajesz podczas biwakowania.
+@@191
+Użyj kopczyka, by zapisać postęp za pomocą {0} + {1}. Nowe kopczyki dostajesz podczas biwakowania.
+@@192
+Kompostuj
+@@193
+<b>Właśnie skompostowałaś swój pierwszy przedmiot!</b>
+
+Po kompostowaniu możesz odczekać <b>12 minut na uzupełnienie magnezji</b> albo <b>skompostować więcej przedmiotów, by przyspieszyć proces.</b>
+
+Gdy wskaźnik się zapełni, wybierz Climbota w menu ekwipunku, by odebrać magnezję.
+@@196
+Świetlik
+@@197
+Kakao
+@@198
+Czekoherbata
+@@199
+Cappuccino
+@@200
+Mocny napój czekoladowy
+@@201
+Espresso
+@@202
+Jajka z mlekiem
+@@203
+Słodkie jajka z mlekiem
+@@204
+Woda źródlana
+@@206
+Stara mapa
+@@207
+Mapa ???
+@@208
+Lody waniliowe
+@@209
+Talerz kurczaka
+@@210
+Kawałek pizzy

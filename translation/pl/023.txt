@@ -1,0 +1,318 @@
+@@3614
+<b>Fragment wywiadu z Ottem Mondo.</b>
+@@3615
+<b>Climbing Daily:</b> <i>Od odkrycia pierwszego etapu pańskiej podróży wspinacze na całym świecie nie mówią o niczym innym!</i>
+
+<b>Otto Mondo:</b> <i>W ostatnich latach dostałem dziesiątki listów od alpinistów. Chcieli doszlifować umiejętności przed próbą wejścia na Kami. Pochlebiało mi to zainteresowanie, ale na początku nie odpisywałem: mój lud i ja opuściliśmy tę górę nie bez powodu – jest bezlitosna, a szczyt jest nieosiągalny.
+
+Z czasem uznałem, że nie mnie oceniać ich ambicje. Złapałem bakcyla i zaprojektowałem osiem wyzwań, które odzwierciedlają cechy potrzebne, by przystosować się do środowiska Kami.</i>
+@@3616
+<b>C. D.:</b> <i>Jakie to ekscytujące! Czy Kami powinna spodziewać się tłumów wspinaczy szturmujących jej szczyt?</i>
+
+<b>O. M.:</b> <i>Ja tylko wskazuję drogę. Wspinacze, którzy wyruszą w tę przygodę, sami będą musieli znaleźć odpowiedzi. Ci, którzy żyją w pionie, od dawna próbowali zbliżyć się do gwiazd, zdobywając szczyt Kami, a najlepsi z nas przepadli, próbując. Zatrzymaliśmy się blisko szczytu i odnaleźliśmy spokój. Kto wie, może ci nowi wspinacze staną się nowym pokoleniem żyjącym w pionie?</i>
+@@3617
+Ośmiornica pirat
+@@3618
+Figurka ośmiornicy – niemal słychać, jak woła „Do abordażu!”
+@@3619
+Żeton szczekuszki
+@@3620
+Opis żetonu szczekuszki
+@@3621
+{0}
+
+Żeby go uruchomić, potrzebuję tarczy i podstawy.
+@@3622
+{0}
+
+Żeby go uruchomić, potrzebuję tarczy.
+@@3623
+{0}
+
+Żeby go uruchomić, potrzebuję podstawy i górnej części.
+@@3624
+{0}
+
+Żeby go uruchomić, potrzebuję górnej części.
+@@3625
+{0}
+
+Żeby go uruchomić, potrzebuję podstawy.
+@@3626
+Opis kompletnego kompasu
+@@3627
+Hej, Aava!
+@@3628
+To jest to, ścianka-wieża w Lamu, cała twoja.
+@@3629
+Tu zaczyna się szlak Otta Mondo,
+@@3630
+obowiązkowy, jeśli kiedykolwiek chcesz postawić stopę na Kami...
+@@3631
+Daj znać, jak ukończysz wszystkie wyzwania!
+@@3632
+Dobra, powodzenia.
+@@3633
+No jasne.
+@@3634
+A ja spodziewałam się czegoś ostrzejszego niż przytulna ścianka,
+@@3635
+ale zobaczymy, jak pójdzie.
+@@3636
+Hej, Marco, oddzwaniam.
+@@3637
+Słuchaj, młody, nie biorę teraz żadnych nowych wspinaczy.
+@@3638
+Mam już na głowie jedną gwiazdę.
+@@3639
+Może najpierw ukończ wyzwania Mondo i wtedy oddzwoń,
+@@3640
+to pogadamy.
+@@3641
+Ciao.
+@@3642
+No jasne, chyba jestem zdany na siebie...
+@@3643
+Dobra! Krok pierwszy: ścianka-wieża w Lamu i początek podróży starego Otta.
+@@3644
+Zobaczmy, o co chodzi.
+@@3645
+„Góra zabójca”, serio?
+@@3646
+Jak myślą, po co tam w ogóle wchodzimy? Ludzie po prostu nie rozumieją.
+@@3647
+Łał, ona naprawdę spróbuje wejść na Kami, co za ikona. Serio inspirujące.
+@@3648
+Mama zawsze mówiła, że marzenia nic nie kosztują, i może tym razem ma rację.
+@@3649
+Idealnie! Wszystko, czego potrzebuję, żeby się przygotować.
+@@3650
+Nie wiem, czy w najbliższym czasie spróbuję wejść na Kami,
+@@3651
+ale nie pogardziłbym agentem i sponsorami, żeby odpicować vana.
+@@3652
+O, cześć, tato. Szkoda, że nie dzwoniłeś tyle razy, ile razy wznawiano twoją książkę.
+@@3653
+Klasyk! Czytałam ją dwa razy.
+@@3654
+I nawet zdążyłabym się porozciągać!
+@@3655
+Nieładnie, ale zrobione.
+@@3656
+Skup się, Aava, to naprawdę nie jest takie trudne.
+@@3657
+Hmm, za wolno, ale coraz lepiej.
+@@3658
+Lepiej dobrze niż szybko – choć pierwsze miejsce byłoby jeszcze lepsze.
+@@3659
+Przestać czy zrobić jeszcze jedną rundę?
+@@3660
+Jeśli to jest to, co Otto nazywa „idealną skałą na rozgrzewkę”,
+@@3661
+to nie mogę się doczekać, co dalej…
+@@3662
+O rany, to jest ta „rozgrzewka”?
+@@3663
+Nie wiem, czy chcę zobaczyć resztę.
+@@3664
+Zejść ze swojej góry, żeby dołączyć do nas tu na dole – co za dziwny pomysł.
+@@3665
+Ciekawe, za czym najbardziej tęsknili tam na górze? Ja na pewno za ekranem.
+@@3666
+Okapy na okapach… Super. Rozumiem, czemu to przypomina Kami.
+@@3667
+O tak, mnóstwo tu fajnych rzeczy. Byle ci nie przeszkadzała woda…
+@@3668
+Hej, moja ulubiona wspinaczko!
+@@3669
+Jeśli dobrze zrozumiałem twoją ostatnią wiadomość, wybierasz się do wesołego miasteczka?!
+@@3670
+Nie mam się czym martwić, prawda?
+@@3671
+Pamiętasz, że Kami jest za pół roku, tak?
+@@3672
+Dobra, daj znać, jak wrócisz do treningów.
+@@3673
+Cześć, moja żabko, tu mama.
+@@3674
+Dostałam twoje wieści,
+@@3675
+tak się cieszę, że praca instruktora wspinaczki ci się układa!
+@@3676
+Ale teraz znowu wyjeżdżasz na wakacje, tak?
+@@3677
+Nie zapominaj myśleć o przyszłości, a przede wszystkim odwiedź nas wkrótce!
+@@3678
+Tęsknimy. Całuję mocno.
+@@3679
+Spokojnie, mamo, haha.
+@@3680
+Gigantyczny posąg Szczekuszki Sprzątaczki… Co dalej, film animowany?!
+@@3681
+Już widzę, jak ten posąg okazuje się olbrzymim robotem, który zaraz zniszczy ludzkość…
+@@3682
+Miły robocie, przychodzę w pokoju!
+@@3683
+Otto Mondo tędy przechodził.
+@@3684
+Stary Otto też tędy przechodził!
+@@3686
+Naciśnij dowolny przycisk
+@@3687
+Wyceluj w kończynę, by ją wybrać, albo przypisz każdą kończynę do przycisku. Przyciski możesz zmienić w ustawieniach sterowania.
+@@3688
+Naciśnij nowy przycisk, by przypisać
+@@3689
+Mając jeden wyżej położony stopień, <b>przytrzymaj {0} w górę</b>, by Aava się wyciągnęła i <b>sięgnęła dalszych chwytów.</b>
+
+Ten ruch możesz powtarzać w dowolnym kierunku, ale Aava się nie wyciągnie, jeśli jej ręce i nogi są już zbyt rozciągnięte.
+@@3690
+<b>Wył.:</b> graj tylko z automatycznym wyborem kończyn. <b>Opcjonalny:</b> opcjonalnie przełącz kończynę do ruchu, przytrzymując {0}. <b>Pełny:</b> naciśnij {1}, {2}, {3} lub {4}, by wybrać, którą kończynę przesunąć.
+@@3693
+Głośnik kontrolera
+@@3694
+Wyjście audio kontrolera
+@@3695
+Siła efektu spustów
+@@3697
+<b>Dziękujemy za zagranie w demo Cairn!</b><br>Możesz nas dalej wspierać, dodając grę do listy życzeń.
+@@3698
+Tryb grafiki
+@@3699
+Barometr mojego dziadka. Zabieram go wszędzie, choć nigdy go nie użyłem.
+@@3700
+Samy! Mój prawie najnowszy climbot. Przerabia śmieci na magnezję dużo szybciej niż poprzednie modele.
+@@3701
+Mój bidon. Każdy nowy napój, który do niego wlewam, smakuje trochę jak poprzednie.
+@@3702
+Wszechmocny proszek. Bardzo przydatny, żeby mieć dobry chwyt. A także do rysowania emotek na ciemnych ciuchach kumpli.
+@@3703
+Szczerze mówiąc, nigdy nie przepadałem za kawą, ale nie odmówię sobie odrobiny kopa.
+@@3704
+Szczyt chemicznych napojów energetycznych. Jeśli nie zabije mnie na miejscu, uznam, że mam szczęście.
+@@3705
+Odrobina bimbru, żeby złagodzić smak kawy. Czy to dobry pomysł, Marco?
+@@3706
+To naprawdę daje kopa. Hart, szybkość, chwyt. Sprzedają to w sklepach, ale nie wiem, czy wolno tego używać na zawodach.
+@@3707
+Namiot Yukai, jeden z pierwszych modeli. Mój jest nowocześniejszy!
+@@3708
+Mały kotek na szczęście, przyda mi się w górach.
+@@3709
+Raczej nie tędy.
+@@3710
+Lubię wytyczać własną drogę, ale to już przesada.
+@@3711
+Epicki upadek.
+@@3712
+Ale fiknąłem. Nieważne, wracam na ścianę.
+@@3713
+Uff, było blisko...
+@@3714
+Nie wygląda to dobrze...
+@@3715
+Widziałem szczyt... We śnie.
+@@3716
+Moje dłonie właśnie rzuciły robotę.
+@@3717
+Nie czuję dłoni.
+@@3718
+Nie mam już całych palców.
+@@3719
+Dobra, jestem skupiony.
+@@3720
+Żyję i mam się dobrze!
+@@3721
+Jestem wyprany.
+@@3722
+No, wciąż boli…
+@@3723
+Żyję, wszystko w porządku.
+@@3724
+Dam radę!
+@@3725
+Jeszcze tylko jedna próba.
+@@3726
+Nic wielkiego.
+@@3727
+Przeklęta grawitacja.
+@@3728
+Wracamy do roboty, raz-dwa.
+@@3729
+Ech. Następnym razem pójdzie lepiej...
+@@3730
+Przynajmniej znam drogę w dół.
+@@3731
+Ale ze mnie głupek.
+@@3732
+Ech. Tylko mała wpadka.
+@@3733
+Kto powiedział, że zabawa ma być zabawna…
+@@3734
+Co to w ogóle było.
+@@3735
+Dobra, muszę oczyścić umysł.
+@@3736
+Dalej, Marco, dasz radę.
+@@3737
+Pfff. Dobra, następna będzie ta.
+@@3738
+Może wygrałaś tę rundę, ściano, ale to jeszcze nie koniec.
+@@3739
+Dla chcącego nic trudnego.
+@@3740
+Co cię nie zabije, to cię wzmocni
+@@3741
+To ta.
+@@3742
+Nie zrobisz omletu bez rozbicia jajek...
+@@3743
+Duch poturbowany, ale niezłamany!
+@@3744
+Ech... Czy naprawdę dam radę?
+@@3745
+Ech, to nie było przyjemne.
+@@3746
+Ech, jestem w tym beznadziejny.
+@@3747
+To jest brutalne!
+@@3748
+Bezpieczeństwo przede wszystkim.
+@@3749
+Gładko jak po maśle.
+@@3750
+Ups!
+@@3751
+Oj-oj.
+@@3752
+Muszę uważać, one nie rosną na drzewach.
+@@3753
+Kurczę.
+@@3754
+Ech, niegrzecznie.
+@@3755
+Rany.
+@@3756
+Odzyskaj je, Samy.
+@@3757
+Możesz przynieść haki?
+@@3758
+Hej, kolego, przynieś mi haki.
+@@3759
+Haki? Bardzo proszę.
+@@3760
+Potrzebuję tych haków, Samy.
+@@3761
+Nie chciałbym złamać haka.
+@@3762
+Jestem zdany na siebie, żadnych haków.
+@@3763
+Wspinaczka w deszczu, nie czuć zmęczenia.
+@@3764
+Deszcz jest tylko w głowie.
+@@3765
+Poproszę wspinaczkę z odrobiną deszczu, dziękuję.
+@@3766
+Mgła gęstnieje.
+@@3767
+„Nie bacząc na niebezpieczeństwo, nasz bohater przedziera się przez mgłę”.

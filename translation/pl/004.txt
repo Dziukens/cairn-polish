@@ -1,0 +1,425 @@
+@@709
+Herbata
+@@710
+Kawa
+@@711
+Zupa
+@@712
+Yellow Yak
+@@713
+Alpine Cola
+@@714
+Sok malinowy
+@@715
+Kawa z prądem
+@@716
+Biały aksamit
+@@717
+Daiquiri
+@@718
+Dziwna mieszanka
+@@719
+Jałowiec
+@@720
+Pokrzywa
+@@721
+Goryczka
+@@722
+Mech
+@@723
+Maliny
+@@724
+Łyżka do miodu
+@@725
+Supermiód goryczkowy
+@@726
+Czosnek niedźwiedzi
+@@727
+Gotowany czosnek niedźwiedzi
+@@728
+Mniszek
+@@729
+Gotowany mniszek
+@@730
+Oset
+@@731
+Gotowany oset
+@@732
+Babka
+@@733
+Gotowana babka
+@@734
+Grzyby
+@@735
+Gotowane grzyby
+@@736
+Jajka
+@@737
+Pomidor
+@@738
+Duszone pomidory
+@@739
+Pstrąg
+@@740
+Pieczony pstrąg
+@@741
+Szczekuszka
+@@742
+Żaba
+@@743
+Nietoperz
+@@744
+Salamandra
+@@745
+Mysz
+@@746
+Podziemny dąb
+@@747
+Saszetka kawy
+@@748
+Torebka herbaty
+@@749
+Mleko w proszku
+@@750
+Zupa liofilizowana
+@@751
+Syrop klonowy
+@@752
+Suszone mięso
+@@753
+Precel
+@@754
+Kompot
+@@755
+Czekolada
+@@756
+Krakersy
+@@757
+Orzechy
+@@758
+Suszona ryba
+@@759
+Masło orzechowe
+@@760
+Rodzynki
+@@761
+Żelki energetyczne
+@@762
+Żel sportowy
+@@763
+Galaretki owocowe
+@@764
+Baton proteinowy
+@@765
+Cukier
+@@766
+Karmel
+@@767
+Zupka chińska
+@@768
+Ugotowany makaron
+@@769
+Surowy ryż
+@@770
+Ugotowany ryż
+@@771
+Puree w proszku
+@@772
+Puree ziemniaczane
+@@773
+Liofilizowane warzywa
+@@774
+Duszone warzywa
+@@775
+Soczewica z szynką
+@@776
+Ugotowana soczewica z szynką
+@@777
+Płatki owsiane
+@@778
+Owsianka
+@@779
+Obrzydliwa breja
+@@788
+Papierowa torba
+@@789
+Folia spożywcza
+@@790
+Puste pudełko
+@@791
+Szklany pojemnik
+@@792
+Puszka po jedzeniu
+@@793
+Stłuczona butelka
+@@794
+Blaszana puszka
+@@795
+Porzucona butelka
+@@796
+Foliowa torba
+@@797
+Plecak
+@@798
+Garnek chłodzący
+@@799
+Automat z przekąskami
+@@800
+Zdezelowany climbot
+@@801
+Zepsuty automat
+@@802
+Apteczka
+@@803
+Kosz na śmieci
+@@804
+Skrzynia odporna na niedźwiedzie
+@@805
+Ciało
+@@806
+Drobne
+@@807
+Mapa pszczelarza
+@@808
+Mapa troglodytów
+@@809
+Mapa przyjaciół
+@@810
+Podarty rysunek
+@@811
+List o wyruszeniu
+@@812
+List pełen niepewności
+@@813
+List pełen nadziei
+@@814
+List o odkryciu
+@@815
+List pełen nostalgii
+@@816
+List pożegnalny?
+@@817
+List od Rody'ego
+@@818
+Fajerwerki
+@@819
+Odłamek kryształu
+@@820
+Laleczka troglodytów
+@@821
+Część laleczki I
+@@822
+Część laleczki II
+@@823
+Część laleczki III
+@@824
+Perłowa szarotka
+@@825
+Przepis na supermiód
+@@826
+Trening wspinaczki
+@@827
+Trening wspinaczki II
+@@828
+Trening wspinaczki III
+@@829
+Trening wspinaczki IV
+@@830
+Mleko jagodowe
+@@831
+Gulasz z pokrzywy
+@@832
+Gotowane rośliny
+@@833
+Grzyby po myśliwsku
+@@834
+Pstrąg po jaskiniowemu
+@@835
+Pomidory z hali
+@@836
+Jajka w czekoladzie
+@@837
+Krówki klonowe
+@@838
+Kostka cukru maczana w kawie
+@@839
+Makaron z pułapki na turystów
+@@840
+Ryż górski
+@@841
+Ziemniaki na rozruch
+@@842
+Warzywa Matki Natury
+@@843
+Gulasz górski
+@@844
+Owsianka na mleku
+@@845
+Kafeina
+@@846
+Fondue czekoladowe
+@@847
+Wyciąg leczniczy
+@@848
+Ajerkoniak
+@@849
+Sangria
+@@850
+Krwawa Mary
+@@851
+Origami ryś
+@@852
+Przepis – Pomidory z hali
+@@853
+Przepis – Krówki klonowe
+@@854
+Przepis – Pstrąg po jaskiniowemu
+@@855
+Przepis – Gulasz górski
+@@856
+Przepis – Grzyby po myśliwsku
+@@857
+Przepis – Makaron z pułapki na turystów
+@@858
+Przepis – Owsianka na mleku
+@@859
+Przepis – Ryż górski
+@@861
+Pamiątka: {0}
+@@862
+Spadająca gwiazda
+@@863
+Kapsuła
+@@864
+Pluszowa szczekuszka
+@@865
+Amulet troglodytów
+@@866
+Proporczyk troglodytów
+@@867
+Breloczek Alpine Cola
+@@868
+Odznaka troglodytów
+@@869
+Dzwonki wietrzne
+@@870
+Namiot Yukai
+@@871
+Puszka bimbru
+@@872
+Odręcznie napisany list
+@@873
+Głos
+@@874
+Mój barometr. Jest starożytny, ale wciąż mniej więcej przewiduje pogodę.
+@@875
+Mój climbot, jeden z pierwszych modeli. Asekuruje mnie i zbiera moje haki, gdy się wspinam.
+@@876
+Mój bidon, niezbędny, bo „trzeba się nawadniać, żeby nie łapały skurcze”.
+@@877
+Pokaźny bidon, trochę nieporęczny, ale lepsze to niż omdlenie.
+@@878
+Mała butelka. Wygodna na resztki naparu.
+@@879
+Pusta butelka. Nawadnianie jest kluczowe.
+@@880
+Duża pusta butelka. Wystarczy na jakiś czas.
+@@881
+Bardzo duża butelka. Równie dobrze mogłabym nosić kanister.
+@@882
+Składany bidon, świetny sposób na oszczędzenie miejsca.
+@@883
+Termos. Świetnie utrzymuje ciepło napojów przez jakiś czas... choć smakują trochę dziwnie, nie sądzisz?
+@@884
+Niesamowita rzecz – nigdy czegoś takiego nie widziałam. Termos solarny. Sam podgrzewa to, co się do niego wleje.
+@@885
+Mocno oberwał przy upadku, chyba mogę się go pozbyć...
+@@886
+Haki samowkręcające są najlepsze, ale na dnie plecaka na nic się nie zdadzą. Zawsze powinnam mieć kilka przy sobie.
+@@887
+Hak samowkręcający. Przydaje się, by uniknąć śmiertelnych upadków, ale może pęknąć, jeśli źle go osadzisz.
+@@888
+Hak troglodytów. Nie wiem, z czego jest zrobiony, ale wygląda na niezniszczalny.
+@@889
+Metalowy złom. Na tyle solidny, że Climbot przerobi go na haki podczas najbliższego biwaku.
+@@890
+Mój woreczek na magnezję, mocno wysłużony.
+
+Używam go tylko podczas wspinaczki. Znacznie poprawia chwyt. Kompost Climbota wytwarza magnezję.
+@@891
+Duży woreczek magnezji, prawie nowy.
+
+Używa się go tylko podczas wspinaczki. Znacznie poprawia chwyt. Kompost Climbota wytwarza magnezję.
+@@892
+Magnezja, niezbędna przy spoconych dłoniach. Ja akurat tego problemu nie mam, ale i tak bardzo się przydaje.
+@@893
+Rękawiczki wspinaczkowe... Które świecą w ciemności. Żeby lśnić, nawet gdy spadasz.
+@@894
+Ich barwnik zmieszano z kryształowym pyłem, żeby świeciły w ciemności. Możesz je założyć lub schować do plecaka.
+@@895
+Wiatraczek. Jeśli kręci się jak szalony, nadchodzi podmuch wiatru. Wtedy trzeba złapać pewne chwyty i się nie ruszać.
+@@896
+Przydaje się do przewidywania podmuchów wiatru. Możesz go założyć lub schować do plecaka.
+@@897
+Koc ratunkowy. Lekki, kompaktowy i naprawdę grzeje. Świetny sposób, by szybko dojść do siebie bez rozbijania namiotu.
+@@898
+Bardzo słaby kryminał, idealny na deszczowe noce. Trzymam w nim wszystkie papiery, które chcę zachować, żeby łatwo je znaleźć.
+@@899
+Świeża, czysta, piękna woda. Właściwie jedyna prawdziwa woda.
+@@900
+Kozie mleko z górskich hal. Gasi pragnienie i trochę łagodzi głód.
+@@901
+Pyszny napar z jagód jałowca. Dodaje mi energii, a ta goryczka jest cudowna.
+@@902
+Napar z pokrzywy, pyszny i bardzo relaksujący.
+@@903
+Mieszanka magicznych roślin Matki Góry. Na pewno doda mi wigoru.
+@@904
+Gorąca czekolada. Nie najlepsze miejsce, by się nią delektować, ale kto odmówi czekolady?
+@@905
+Pobudzająca herbata miętowa, ulubiona przez alpinistów, bo poprawia koncentrację.
+@@906
+No dobra, nigdy nie przepadałam za kawą, ale nie odmówię sobie odrobiny kopa.
+@@907
+Nawadnia, odżywia, zdrowa. Zupa została stworzona dla gór. Choć brakuje mi grzanek.
+@@908
+Przesłodzony napój gazowany sprzedawany wyłącznie w górskich kurortach (ryzykowny model biznesowy).
+@@909
+Szczyt chemicznych napojów energetycznych. Jeśli nie zabije mnie od razu, uznam, że mam szczęście.
+@@910
+Domowy sok malinowy! A raczej biwakowy. Uwielbiam go.
+@@911
+Miejscowy bimber. Nie mam pojęcia, skąd pochodzi, ale mocno pachnie ziołami.
+@@912
+Bimber z jajkami. Brakuje kilku składników, żeby był smaczny, ale przynajmniej czuję świąteczny klimat.
+@@913
+Dziennikarze: „Zdobyłaś szczyt Kami, niesamowity wyczyn – jak tego dokonałaś?”
+Ja: „Bimber w zupie”.
+@@914
+Odrobina bimbru, żeby zabić smak kawy. Czy to dobry pomysł, Aava?
+@@915
+Stary dobry grog. W domu, przy bólu gardła, czemu nie. Ale tutaj... nie wiem, czy to wskazane.
+@@916
+Bimber z herbatą... Smakuje dobrze, tylko szkoda, że jest w tym gorzała.
+@@917
+Czy bimber przedłuża trwałość koziego mleka? Odpowiedź poznam za kilka dni.
+@@918
+Ten bimber jest okropny, ale może jeśli dodam trochę czekolady...
+@@919
+Łyżeczka cukru pomaga przełknąć bimber. Ale woda sprawdza się jeszcze lepiej.
+@@920
+Breja z niepasujących do siebie składników. Zatkanie nosa przy piciu powinno pomóc...
+@@921
+Jagody jałowca. Już widzę, jak robię z nich herbatę.
+@@922
+Liście pokrzywy... Uwielbiam tę roślinę: można by pomyśleć, że tylko parzy, ale gdy się ją lepiej pozna (i ugotuje), ma mnóstwo zalet.
+@@923
+Goryczka. Jest gorzka, ale bardzo skuteczna na ból brzucha. Bardzo przydatna w naparze.
+@@924
+Mech. Materia organiczna. Musiałabym być naprawdę zdesperowana, żeby to zjeść.
+@@925
+Spora garść malin. Kto potrzebuje sztucznych słodyczy, skoro natura daje coś takiego?
+@@926
+To jest bardziej eko niż żywność ekologiczna. Dobry, naturalny cukier. Szkoda, że nie lubię tego smaku.
+@@927
+Miód wzbogacony szczyptą goryczki. Na początku zaskakuje, ale gdy raz go spróbujesz, będziesz go pragnąć na zawsze.

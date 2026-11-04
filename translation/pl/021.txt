@@ -1,0 +1,287 @@
+@@3444
+Dodatkowy montaż muzyki
+@@3445
+Wydanie
+@@3449
+<i>Make This Right</i> z gry <i>Furi</i> – wykonawca: <b>The Toxic Avenger</b>
+@@3450
+Założyciel i prezes
+@@3451
+Wiceprezes
+@@3452
+Dyrektor operacyjny
+@@3453
+Szef kontroli jakości
+@@3454
+Kierownik zespołu kontroli jakości
+@@3455
+Specjalista ds. zgodności QA
+@@3456
+{0} (On the Trail)
+@@3457
+Głęboka woda
+@@3458
+Ekstremalne warunki
+@@3459
+Zaginione ruiny
+@@3460
+W trybie <b>swobodnej eksploracji</b> możesz ponownie zwiedzać Kami i odkrywać nowe ścieżki.
+
+<b>Szybka podróż</b> na różne półki Kami pozwala otwierać nowe drogi wspinaczkowe. Ten tryb <b>nie zawiera żadnych elementów fabuły</b>.
+@@3461
+W trybie <b>swobodnej eksploracji</b> możesz z widoku z oddali szybko podróżować między różnymi miejscami na Kami, by zwiedzić każdy zakątek i otwierać nowe drogi wspinaczkowe. Przed wczytaniem zapisu możesz zmienić postać, a tryb wspomagania możesz włączyć w każdej chwili.
+
+<b>W tym trybie gry nie ma elementów fabuły.</b>
+@@3462
+Zawartość plecaka zostanie zresetowana
+@@3465
+Ścianka wspinaczkowa Lamu, słynąca z wymagających dróg, jest też pierwszym etapem podróży Otta Mondo.
+@@3467
+To miejsce do wspinaczki nad głęboką wodą to najlepiej strzeżony sekret półkuli południowej – według Otta Mondo „idealne na rozgrzewkę” przed wejściem na Kami.
+@@3469
+Ta wyspa o zmiennej pogodzie to jeden z przystanków treningowych zaproponowanych przez Otta Mondo przed wejściem na Kami. Jej latarni nie zapalano od wieków.
+@@3470
+Mechaniczna atrakcja zaprojektowana dla wspinaczy górskich, porzucona od kilku lat.
+@@3471
+<b>Stopień ukończenia:</b> {0}%
+@@3472
+<b>Podejścia:</b> {0}
+@@3473
+Zbadaj dokładniej: <b>{0}</b>, by odblokować ten obszar.
+@@3474
+Nowy cel podróży: {0}
+@@3475
+Możesz teraz podróżować do: <b>{0}</b> z menu głównego.
+
+{1}
+@@3476
+Do miejsca <b>{0}</b> będzie można podróżować w kolejnym DLC.
+
+{1}
+@@3477
+Dziękujemy za zagranie w <b>Cairn: On the Trail – Deep Water!</b>
+Podążaj dalej ścieżką wyznaczoną przez Otta Mondo w naszym kolejnym DLC.
+@@3478
+Opcjonalny
+@@3479
+Pełny
+@@3480
+Tryb wyboru opcjonalnego
+@@3481
+<b>Wył.:</b> graj tylko z automatycznym wyborem kończyn. <b>Opcjonalny:</b> wybierz konkretną kończynę do ruchu, przytrzymując {0}. <b>Pełny:</b> kliknij {1} lub {2}, by wybrać kończynę. Naciśnij {3}, by przełączać między rękami a nogami. Zeskocz ze ściany za pomocą {4}
+@@3482
+Kontekst: Opcjonalny wybór kończyn
+@@3483
+Włącz wybór opcjonalny
+@@3484
+Włącz czynności dodatkowe
+@@3485
+Przytrzymaj ten przycisk, by <b>zbadać ścianę</b>, <b>złapać linę</b> lub otworzyć <b>alternatywne szybkie czynności</b>.
+@@3486
+Przełącz wybrane kończyny
+@@3487
+Naciśnij ten klawisz, by przełączać między wyborem rąk a nóg.
+@@3488
+Lewa kończyna
+@@3489
+Prawa kończyna
+@@3490
+Ręczny wybór kończyn jest niedostępny w etapach samouczka. Pamiętaj, by ponownie włączyć to ustawienie po wyjściu ze ścianki wspinaczkowej.
+@@3491
+Zamknij
+@@3492
+Spuść linę
+@@3493
+Podjąć wyzwanie?
+@@3494
+Zrezygnować z wyzwania?
+@@3495
+Tablica wyników
+@@3496
+{0}: zawody na czas
+@@3497
+{0}: ukończone drogi
+@@3498
+<b>Ukończono:</b> {0}
+@@3499
+Pierwsza wiadomość
+@@3500
+Druga wiadomość
+@@3501
+Trzecia wiadomość
+@@3502
+Znajdź wiadomość Otta
+@@3503
+Znajdź pierwszą wiadomość Otta
+@@3504
+Znajdź drugą wiadomość Otta
+@@3505
+Znajdź trzecią wiadomość Otta
+@@3506
+Kieszonkowa szczekuszka
+@@3507
+Zdobądź woreczek na magnezję
+@@3508
+Zawzięta wspinaczka
+@@3509
+Ukończ wszystkie drogi
+@@3510
+Pełen gaz
+@@3511
+Zajmij pierwsze miejsce w zawodach
+@@3512
+Pokaz świateł
+@@3513
+Odpal fajerwerki
+@@3514
+Wtargnięcie
+@@3515
+Znajdź klucz rybaka
+@@3516
+Otwórz chatę rybaka
+@@3517
+Pokój z widokiem
+@@3518
+Znajdź pokój Otta
+@@3519
+Lekka jak piórko
+@@3520
+Znajdź pióro feniksa
+@@3521
+Akcja <i>On the Trail</i> rozgrywa się przed wspinaczką Aavy na górę Kami. Pozwoli ci zmierzyć się z </b>próbami Otta Mondo – wymagającą podróżą po drogach wspinaczkowych z całego świata</b>.
+
+Zalecamy grę w <i>On the Trail</i> <b>po ukończeniu głównej fabuły.</b>
+@@3522
+Nie trzeba będzie szukać sposobów na przetrwanie w górach jak na Kami, ale <b>trzeba będzie gospodarować energią!</b>
+
+Starannie wybieraj ruchy i uważaj na upadki, które szczególnie wyczerpują. Jeśli zabraknie ci energii, trzeba będzie zacząć wspinaczkę od nowa.
+@@3523
+Możesz <b>odzyskiwać energię dzięki zasobom</b>, które znajdziesz po drodze lub przyniesiesz ze sobą.
+
+Na początku każdego podejścia <b>wybierz, co zabierasz</b>, by jak najlepiej przygotować się na czekające wyzwanie.
+@@3524
+Wróć do wyboru
+@@3525
+BRAK ENERGII
+@@3526
+<b>Znajdź zasoby</b> lub <b>rozpocznij nowe podejście</b>, by uzupełnić energię. <b>Czekanie</b> pozwala przeczekać noc lub burzę.
+@@3527
+Nowe podejście
+@@3528
+Rozpocząć nowe podejście?
+@@3529
+Twoja trasa, bieżące cele i zawartość plecaka zostaną zresetowane. Już ukończone cele zostaną zachowane.
+@@3530
+Spakuj plecak
+@@3531
+Ulepszenia
+@@3532
+Sprzęt
+@@3533
+Zasoby
+@@3534
+Rozpocznij podejście
+@@3535
+Limit
+@@3536
+Trwa podejście! Jeśli zmienisz plecak lub postać, zaczniesz od początku.
+@@3537
+Czy na pewno chcesz rozpocząć nowe podejście?
+@@3538
+Trwa podejście z innym plecakiem lub postacią. Jeśli potwierdzisz, zaczniesz od początku.
+@@3539
+Najpierw odblokuj ten zasób, by móc go wybrać.
+@@3540
+Pusty plecak
+@@3541
+Opuść: {0}
+@@3542
+Podróżuj do: {0}
+@@3543
+Zostań tutaj
+@@3544
+On the Trail – muzyka oryginalna:
+@@3545
+Pobierz On the Trail
+@@3547
+Opis Habu
+@@3549
+Opis Kiblan
+@@3551
+Figurka przedstawiająca tajemniczego Bernarda. Otrzymują ją wspinacze, którzy pokonali najtrudniejsze drogi.
+@@3552
+Fajerwerki z Haken
+@@3553
+Region Haken słynie z pokazów fajerwerków. Muszę je sprawdzić przy najbliższym postoju!
+@@3554
+Próba Woli
+@@3555
+Próba Pustki
+@@3556
+Próba Żywiołów
+@@3557
+Woreczek na magnezję Szczekuszka Sprzątaczka
+@@3558
+Duży woreczek na magnezję w kształcie Szczekuszki Sprzątaczki.
+
+Mieści więcej magnezji i dłużej wystarcza na ścianie.
+@@3559
+Notatka od rybaka
+@@3560
+Kompas z Domy
+@@3561
+Kompas, który może się przydać, jeśli wybiorę się do Domy.
+@@3562
+{0}
+
+Żeby go uruchomić, potrzebuję tarczy i pokrywki.
+@@3563
+Klucz rybaka
+@@3564
+Ja trzymam zapasowy klucz pod wycieraczką, a ten wisiał sobie na skalnej ścianie. Nie jesteśmy tacy sami.
+@@3565
+Gniazda na Ruce
+@@3566
+Złote pióro
+@@3567
+Piękne złote pióro, jego blask mnie uspokaja.
+@@3568
+Lśniące złote pióro...
+@@3569
+Użyj złotego pióra, by wspinać się dalej, albo wybierz śmierć.
+@@3570
+Skalar
+@@3571
+Pieczony skalar
+@@3572
+Uczta w przygotowaniu. Trzeba tylko znaleźć cytryny.
+@@3573
+Jaja mewy. W razie potrzeby rozbić skorupkę (ale najlepiej je ugotować).
+@@3578
+Pontus Wielki
+@@3579
+Liczne ofiary Kami nie osłabiły jej niezłomnej determinacji. Już rozpoczęła intensywny trening, by jak najlepiej przygotować się do przyszłorocznej wspinaczki na górę zabójcę.
+@@3580
+<i>Ścianka wspinaczkowa Lamu to punkt wyjścia podróży zaprojektowanej przez Otta Mondo, słynnego odkrywcę i wspinacza z Pionowego Ludu Kami.
+
+Jego podróż to seria wyzwań przygotowujących do wejścia na górę Kami, jego rodzinną górę. Na każdym etapie wspinacze muszą odnaleźć skrytkę, która wskazuje kolejne miejsce i kolejną próbę.
+
+Wszystko zaczyna się tutaj: obok historycznych dróg wytyczonych przez samego Otta Mondo na ściance znajduje się pierwsza skrytka podróży.</i>
+@@3581
+<b>Próba Woli.</b>
+
+<i>Marzysz o tym, by pewnego dnia stanąć na szczycie Kami, jak wielu przed tobą, którzy żyją w poziomie i szukają granic własnych możliwości. To godne pochwały przedsięwzięcie, ale Kami nie jest górą, która toleruje wspinaczy. Wiem coś o tym, bo tam się urodziłem i wychowałem.
+
+Miejsca, które wybrałem, będą dla ciebie najlepszym przygotowaniem. Ich ściany, ich skały, sama ich budowa odzwierciedlają coś z Kami. Twoje ciało i umysł się zmienią. Być może wtedy będziesz w stanie zapuścić się na Kami, a może zrozumiesz, że lepiej zawrócić. Tak czy inaczej, wyjdziesz z tego jako lepszy człowiek.
+
+Dotrzyj na skalną iglicę Haken, idealne miejsce na rozgrzewkę, a znajdziesz swój kolejny cel.
+
+<color=#865f3b>Niektóre ściany są zbyt wysokie dla ludzi, ale nie odprawią tych, którzy żyją w pionie. Jesteśmy dziećmi gwiazd.</color></i>
+@@3582
+<b>Próba Pustki.</b>
+
+<i>Niebezpieczna ściana Haken została pokonana. To wymagająca skała, która ma ten dobry gust, by otaczała ją woda. Wiedz, że Kami nie okaże takiej pobłażliwości, a upadek będzie tam śmiertelny.
+
+Jeśli ten drugi etap cię nie zniechęcił, udaj się na Rukę, wyspę z latarnią, by zmierzyć się z inną formą pionu.
+
+<color=#865f3b>Niektóre ściany są zbyt wysokie dla ludzi, ale nie odprawią tych, którzy żyją w pionie. Jesteśmy dziećmi gwiazd.</color></i>

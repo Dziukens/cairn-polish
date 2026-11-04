@@ -1,0 +1,425 @@
+@@260
+<b>Arkusz statystyk opisujący próby wejścia na Kami.</b>
+
+<i>Kami: góra zabójca.
+Kami, wznosząca się na wysokość 9005 m, obserwuje nielicznych ludzi, którzy ośmielają się postawić stopę na jej ścianach... i liczy ofiary. Liczba wspinaczy ginących podczas prób wejścia rośnie z roku na rok. Nawet jej turystyczna przeszłość, zwłaszcza aż do półki nr 1, wydaje się odległym wspomnieniem.
+
+Dziś Kami chyba już nikogo nie przyciąga. Doniesienia o obecności jaskiniowców są w najlepszym razie wątpliwe.</i>
+@@261
+<b>Wyblakły plakat reklamujący atrakcję turystyczną.</b>
+
+<i>Wycieczka kolejką linową: zapierający dech w piersiach widok na dolinę!
+
+Podziwiaj miejscową florę i faunę, jadąc słynnymi „bąbelkami”, i dotrzyj na półkę nr 1 na Kami w zaledwie 4 minuty! Po wyjściu będziesz mieć 20 minut na zwiedzanie okolicy w poszukiwaniu śladów jaskiniowców z Kami.
+
+(wizyta na farmie rybnej wymaga dodatkowego biletu)
+
+Zarezerwuj już dziś!</i>
+@@262
+<b>Mapa Tenzen.</b>
+
+<i>Odkryj kilkanaście szlaków turystycznych:
+- Dwa spacery dla najmłodszych
+- Trzy spacery rodzinne
+- Trzy wędrówki sportowe
+- Trzy wędrówki wytrzymałościowe</i>
+@@263
+Nagrania
+@@264
+Czy chcesz jeszcze raz spróbować zapisać dane?
+@@265
+Postaw figurkę
+@@266
+Mała figurka troglodytów. Wygląda na to, że służyła w obrzędzie przejścia.
+@@267
+Dodaje czynność, która pozwala uzupełnić zapas haków w plecaku.
+@@268
+Ruszamy!
+@@269
+Rankingi
+@@270
+Towarzysz
+@@271
+Duchy rozgrywki
+@@272
+Free solo
+@@273
+Aby się poprawić, musisz podejmować lepsze decyzje. <b>Graj ze swoim dawnym ja</b> i nie popełniaj dwa razy tego samego błędu.
+@@274
+Góra jest niebezpieczna i zabójcza: <b>duchy innych graczy</b> pomogą ci zachować bezpieczeństwo.
+@@275
+W free solo nic cię nie wesprze. <b>Upadki nie wybaczają, śmierć jest ostateczna.</b>
+@@276
+Wybierz
+@@277
+Normalny
+@@278
+Autentyczny
+@@279
+Wspinaj się z ekwipunkiem i w razie śmierci zaczynaj od punktu zapisu.
+@@280
+Wspinaj się z ekwipunkiem, ale <b>śmierć to koniec</b> – jeśli zginiesz, zaczniesz od początku.
+@@281
+Wspinaj się <b>bez haków, bez liny, bez robota</b>. <b>Śmierć to koniec</b> – jeśli zginiesz, zaczniesz od początku.
+@@282
+Udostępnij
+@@283
+Trasa udostępniona!
+@@284
+Nie udało się wysłać trasy online
+@@285
+Przywiąż linę do: {0}
+@@286
+Odwiąż linę od: {0}
+@@287
+Ocuć: {0}
+@@288
+Czynności dodatkowe: tryb prosty
+@@289
+Jeśli masz kontroler z większą liczbą przycisków, ta opcja wyłącza przycisk <b>Włącz czynności dodatkowe</b>. Przyciski kończyn trzeba będzie przypisać ponownie.
+@@290
+Sterowanie stopami: jeden klawisz
+@@291
+Domyślnie, aby wybrać stopę, przytrzymaj powyższy klawisz i kliknij. Po włączeniu tej opcji stopę wybierzesz jednym klawiszem. Polecenia stóp trzeba będzie przypisać ponownie.
+@@293
+dzień
+@@294
+Dzień {0}
+@@295
+Dzień {0} – {1}
+@@296
+dni
+@@297
+minuta
+@@298
+min
+@@299
+godzina
+@@300
+godz.
+@@301
+sekunda
+@@302
+s
+@@303
+Styczeń
+@@304
+Luty
+@@305
+Marzec
+@@306
+Kwiecień
+@@307
+Maj
+@@308
+Czerwiec
+@@309
+Lipiec
+@@310
+Sierpień
+@@311
+Wrzesień
+@@312
+Październik
+@@313
+Listopad
+@@314
+Grudzień
+@@318
+Tak
+@@319
+Nie
+@@320
+OK
+@@324
+Starzec
+@@327
+Niewyraźne głosy
+@@329
+Pasterka
+@@330
+Szlifierka kryształów
+@@331
+Automatyczny głos
+@@337
+Kręta Grań
+@@338
+Urwisko
+@@339
+Łuk
+@@340
+Rozłupana Skała
+@@341
+Skrót
+@@342
+Wodospad
+@@343
+Wioska
+@@344
+Kamienny Krąg
+@@345
+Sklepienie
+@@346
+Dziecię
+@@347
+Tarasy
+@@348
+Zwierciadło
+@@349
+Dwieście Stopni
+@@350
+Prastary
+@@351
+Pałac Wiatru
+@@352
+Niebezpieczeństwo
+@@353
+Kopuła
+@@354
+Igła
+@@355
+Sekret
+@@356
+Ostatnie Schronienie
+@@357
+Ostrza
+@@358
+Morze Serakiów
+@@359
+Nieskalana
+@@360
+Kontroler odłączony. Podłącz go ponownie.
+@@361
+Zalecany kontroler
+@@362
+Naciśnij dowolny klawisz
+@@363
+Fabuła
+@@364
+Twórcy
+@@365
+Wyprawa
+@@366
+Strona Cairn na Steamie
+@@367
+Nowa gra
+@@368
+Rozpocznij nową wspinaczkę
+@@369
+Kontynuuj wspinaczkę
+@@370
+Czy na pewno chcesz usunąć ten zapis?
+@@371
+Zacznij od początku
+@@372
+Wróć do menu głównego
+@@373
+Zacznij od ostatniego punktu zapisu
+@@374
+Wyjdź
+@@375
+Wyjść z gry?
+@@376
+Wyjść z obecnej gry i zacząć od początku?
+@@377
+Zapisać i wyjść?
+@@378
+Szybki zapis i wyjście?
+@@379
+Wczytaj
+@@380
+Wczytaj grę
+@@381
+Wczytać grę?
+@@382
+Wczytać zapis<br><b>„{0}”</b>?
+@@383
+Resetuj
+@@384
+- Pusty slot -
+@@385
+Odkrywca
+@@386
+Alpinista
+@@387
+Łagodniejsze wyzwanie dla graczy szukających doświadczenia bardziej skupionego na fabule.
+@@388
+Zrównoważone wyzwanie, <b>zalecane na pierwsze poznanie Cairn.</b>
+@@389
+Niebezpieczne i bezlitosne wyzwanie, w którym każda śmierć jest ostateczna. Zalecane dla graczy, którzy już ukończyli wspinaczkę.
+@@390
+Poziom trudności: {0}
+@@391
+Czas gry: {0}
+@@392
+Przełącz na: {0}
+@@393
+Opcje trybu wspomagania można zmienić podczas gry w menu Ustawienia.
+@@394
+Postęp zapisuje się automatycznie.
+@@395
+Zapisuj postęp w miejscach biwakowych.
+@@396
+Brak zapisów, śmierć jest ostateczna.
+@@397
+Zawsze możesz wykonać szybki zapis, by tymczasowo wyjść z gry.
+@@398
+Niektóre opcje wspomagania są domyślnie włączone.
+@@399
+Możesz je zmienić w każdej chwili w ustawieniach rozgrywki.
+@@400
+Opcje wspomagania są domyślnie wyłączone.
+@@401
+Opcje wspomagania są niedostępne.
+@@402
+Przetrwanie jest łatwiejsze.
+@@403
+Przetrwanie jest zrównoważone.
+@@404
+Wspinaj się z ekwipunkiem i hakami.
+@@405
+Bez haków, bez asekuracji.
+@@406
+Zaczynasz ze specjalnym przedmiotem, który pozwala przeżyć jeden śmiertelny upadek.
+@@407
+Cofnij czas
+@@408
+Cofnij swoje ruchy, by uniknąć upadku.
+@@409
+Ustawienia
+@@410
+Rozgrywka
+@@411
+Sterowanie
+@@412
+Język
+@@413
+Obraz
+@@414
+Dźwięk
+@@415
+Głośność ogólna
+@@416
+Głośność głosów
+@@417
+Głośność muzyki
+@@418
+Głośność efektów
+@@419
+Głośność wysiłku
+@@420
+Tryb wyświetlania
+@@421
+Pełny ekran
+@@422
+Okno bez ramki
+@@423
+Okno
+@@424
+Rozdzielczość
+@@425
+Zachować obecną rozdzielczość?
+@@426
+Poprzednia rozdzielczość zostanie przywrócona po zakończeniu odliczania: {0}
+@@427
+Niska
+@@428
+Średnia
+@@429
+Wysoka
+@@430
+Jasność
+@@431
+Docelowa liczba klatek
+@@432
+Bez limitu
+@@433
+{0} FPS
+@@434
+Synchronizacja pionowa
+@@435
+Interfejs
+@@436
+HUD
+@@437
+Immersyjny
+@@438
+Zawsze widoczny
+@@439
+Ręczny wybór kończyn
+@@440
+Ręczny wybór pozwala wskazać kończynę do ruchu, przytrzymując {0}.
+@@441
+Tryb ręcznego wyboru
+@@442
+Wyceluj w kończynę, by ją wybrać, albo przypisz każdą kończynę do klawisza. Klawisze możesz zmienić w ustawieniach sterowania.
+@@443
+Gałka
+@@444
+Pokrętło
+@@445
+Przyciski
+@@446
+Tylne przyciski
+@@447
+Klawisze klawiatury
+@@448
+Kółko myszy
+@@449
+Gdy ten tryb jest aktywny, celuj za pomocą {0}, by wybrać kończynę do ruchu. Wybór dopasowuje się do postawy postaci.
+@@450
+Gdy ten tryb jest aktywny, celuj za pomocą {0}, by wybrać kończynę do ruchu. Każda kończyna jest przypisana do jednej ćwiartki {0}.
+@@451
+Gdy ten tryb jest aktywny, naciśnij przycisk, by wybrać kończynę do ruchu. Każda kończyna jest przypisana do {0}, {1}, {2} lub {3}. Przyciski można zmienić w menu przypisania sterowania.
+@@452
+Gdy ten tryb jest aktywny, naciśnij {0}, {1}, {2} lub {3}, by wybrać kończynę do ruchu.
+@@453
+Gdy ten tryb jest aktywny, naciśnij klawisz, by wybrać kończynę do ruchu. Każda kończyna jest przypisana do {0}, {1}, {2} lub {3}. Klawisze można zmienić w menu przypisania sterowania.
+@@454
+Gdy ten tryb jest aktywny, przewijaj {0}, by wybrać kończynę do ruchu.
+@@455
+Zdecydowanie zalecamy automatyczny wybór kończyn – zapewnia płynną i naturalną rozgrywkę.<br><br>Jeśli włączysz wybór ręczny, podczas wspinaczki przytrzymaj <color=#FF9001><b>{0}</b></color>, by wskazać kończynę do ruchu.
+@@456
+Podświetlanie kończyn
+@@457
+Podczas wspinaczki sterowana kończyna jest podświetlona.
+@@458
+Przypominaj o zapisie
+@@459
+Sygnalizacja chwytów
+@@460
+Włącza efekt wizualny za każdym razem, gdy złapiesz dobry chwyt.
+@@461
+Pomijaj minigry na refleks
+@@462
+Minigry wymagające szybkiej reakcji będą zaliczane automatycznie.
+@@463
+Rozpocznij nową grę lub wczytaj istniejącą, by dostosować te ustawienia.
+@@464
+Tryb wspomagania jest niedostępny na poziomie trudności Free solo.
+@@465
+Tryb wspomagania
+@@466
+Tryb wspomagania:
+@@467
+Cofanie upadku
+@@468
+Jeśli włączysz cofanie upadku, każdy upadek da się odwrócić. Wystarczy w trakcie spadania nacisnąć {0}, by bezpiecznie wrócić na ścianę.
+@@469
+Sygnalizacja wytrzymałości
+@@470
+Autozapis
+@@471
+Postęp będzie zapisywany automatycznie, gdy staniesz na stabilnym gruncie.
+@@472
+Bez przetrwania
+@@473
+Czy na pewno chcesz włączyć tryb wspomagania?
+@@474
+Cairn ma być wymagającym doświadczeniem i <b>zalecamy najpierw spróbować domyślnego balansu.</b>
+@@475
+Nieskończony zapas haków
+@@476
+Pokaż sterowanie
+@@477
+Pad

@@ -1,0 +1,180 @@
+@@1498
+<b>Strona z notatkami o perłowej szarotce.</b>
+
+<i>Kwiat leczniczy z rodziny astrowatych, najrzadsza roślina na Kami. Od niepamiętnych czasów jej właściwości służą nam do leczenia chorych i przynoszenia ulgi umierającym.</i>
+@@1499
+<b>Ogromny rejestr otwarty na jednej stronie.</b>
+
+Atrament chyba wyblakł z czasem. Można odczytać:
+
+<i>Tydzień 12 kalendarza księżycowego:
+- Na obrzeżach wioski widziano wspinaczkę. Nie zatrzymała się.
+- Na skraju wioski znaleziono martwego alpinistę. Ci sportowcy nigdy nie myślą o tym, że kiedy spadną, to my musimy się nimi zająć... Dzieci były bardzo wstrząśnięte.
+- Młody pszczelarz przyszedł do nas z wypełnioną po brzegi skrzynią, żeby uczcić narodziny syna! Dziś wieczór grogu!
+- Niedaleko wioski wspinał się nowy alpinista. Musieliśmy odmówić mu wstępu, bo upierał się, że chce tu przyjść. Podobno ma rannego przyjaciela na dole, ale zasada jest surowa: goście nie są tu mile widziani.
+- Spokojny dzień, żadnych wspinaczy na horyzoncie. Dobrze!</i>
+@@1500
+<b>Piąta wioska troglodytów</b>
+
+Spis ludności:
+<s>150</s> <s>137</s> <s>98</s> <s>77</s> <s>35</s> <s>20</s> <s>12</s>
+@@1501
+<i>Pokonałem tę ścianę w wieku 11 lat. Nieźle! Podpisano: Adam.</i>
+@@1502
+<i>W tym roku wszedłem jeszcze wyżej! Chyba jestem najmłodszym wspinaczem, który kiedykolwiek dotarł tak wysoko! Podpisano: Adam.</i>
+@@1503
+<i>Adam też tu był, w wieku 16 lat! Ciężka ściana, ale się trzymam!</i>
+@@1504
+<i>Byli tu Adam i Maud. Mamy 19 lat! We dwoje jest dużo łatwiej, teraz czeka na nas szczyt.</i>
+@@1505
+<i>Byli tu Adam i Maud. Mamy 22 lata. W tym tempie wejdziemy na Kami, jak skończymy 70 lat, ale nic nie szkodzi – każda próba to kolejny krok w stronę szczytu, a we dwoje jesteśmy nie do zatrzymania!</i>
+@@1506
+<i>Adam przeszedł to sam w wieku 24 lat. Maud uważa, że teraz jest zbyt niebezpiecznie. Pewnie ma rację.</i>
+@@1507
+<i>Adam tu był, wciąż sam. Mam 26 lat, to już nie to samo wspinać się bez Maud.</i>
+@@1508
+List był przybity do ściany hakiem.
+@@1509
+Zostawiam tę notatkę dla mojego przyszłego ja i życzę ci:
+
+- nie pracuj za długo w Sport Bazarze, tylko znajdź fajną robotę, która naprawdę cię kręci.
+
+- nie zapominaj cieszyć się życiem i zachowaj swoje wyjątkowe poczucie humoru i przystojną twarz (pomarzyć można, nie?)
+
+- nigdy nie strać Maud. Stary, to najlepsze, co cię w życiu spotkało – nie zawal tego.
+
+- A PRZEDE WSZYSTKIM nigdy nie czytaj tej wiadomości. Jeśli ją czytasz, to znaczy, że złamaliśmy obietnicę i znów wleźliśmy na tę starą, dobrą górę. Czas odpuścić, stary – prawdziwe życie jest tam na dole, z Maud.
+
+Adam
+@@1510
+<i><b>Wielki wymarsz: <s>D-8</s> <s>D-7</s> <s>D-6</s> <s>D-5</s> <s>D-4</s> <s>D-3</s> <s>D-2</s> <s>D-1</s>
+D-0: ostatni dzień szkoły</b>
+
+Rano: ostatnia lekcja – życie na dole.
+- Czego się spodziewać?
+- Jak wyglądają ludzie, którzy żyją poziomo?
+- Czy życie na dole jest trudniejsze niż tutaj i jak się przystosować?
+- Środki lokomocji w życiu poziomym (rower, pociąg, samolot...)
+- „Magiczne” przedmioty (<nobr>„telewizor”</nobr>, <nobr>„komputer”)</nobr>
+
+Po południu:
+- Sprzątanie klasy
+- Podział zadań na zejście: pakowanie, sprawdzanie lin, napełnianie butelek.
+
+Uwaga: wyruszamy o zachodzie słońca!</i>
+@@1511
+<i><b>Wiersz dnia:</b>
+
+<size=18><s>Przybyli zza szczytu, z dalekich stron,
+Skąd troglodytów wywodzi się ród,
+Dawno zeszli z gwiazd, z niebieskich bram,
+Ich pamięć w bliznach przodków trwa,
+Z jaskini wyszli, wspinali się bez końca,
+Bo szczyt Kami to sen wart życia i słońca</s></size>
+
+Pfff, po co się uczyć wierszy o wyczynach troglodytów, skoro szczytu i tak nikt nigdy nie zobaczy... Chciałem być jak wielcy architekci, którzy zbudowali trzech strażników, i wspinać się coraz wyżej, aż na szczyt.
+
+Ale rodzice chcą zejść na dół, a ja sam wspinać się nie będę, nie jestem wariatem!</i>
+@@1512
+<b>Plakat o treningu wspinaczkowym.</b>
+
+<i>5 kluczy do lepszej wspinaczki:
+
+1. <sprite="UI_ICON_Cairn_TMPSpritesheet" name="TMPspr_Grip" color=#000000> Chwyt: ćwicz siłę dłoni, by najmniejsza krawądka wydawała się klamą.
+2. <sprite="UI_ICON_Cairn_TMPSpritesheet" name="TMPspr_Rest" color=#000000> Skupienie: wykorzystaj wewnętrzną moc, by lepiej regenerować się w wygodnych pozycjach.
+3. <sprite="UI_ICON_Cairn_TMPSpritesheet" name="TMPspr_Burst" color=#000000> Zryw: korzystaj ze szczytów energii, by wspinać się po skale szybko jak biały tygrys.
+4. <sprite="UI_ICON_Cairn_TMPSpritesheet" name="TMPspr_Toughness" color=#000000> Hart: wzmacniaj umysł, by nie zważać na ból.
+5. <sprite="UI_ICON_Cairn_TMPSpritesheet" name="TMPspr_Temperature" color=#000000> Temperatura: rozgrzej się od środka, twoja psychika płonie jaśniej niż słońce.
+
+A gdy trening nie wystarcza... nie zapomnij o <sprite="UI_ICON_Cairn_TMPSpritesheet" name="TMPspr_SuperGrip" color=#000000> magnezji!</i>
+@@1513
+<b>Plakat o treningu wspinaczkowym.</b>
+
+<i>Otarcia, pęcherze, pokaleczone palce?
+
+Paskudne urazy dłoni zdarzają się częściej, gdy celujesz w słabe chwyty i wymagasz od siebie nadmiernego wysiłku.
+
+Regularnie oklejaj palce, by je chronić i zapewnić sobie jak najlepszy chwyt.</i>
+@@1514
+<b>Plakat o treningu wspinaczkowym.</b>
+
+<i>Na dużych wysokościach nie żałuj magnezji!
+
+Użyta przed wspinaczką lub w jej trakcie wielokrotnie zwiększa siłę chwytu na kilka metrów drogi.
+
+Climbot, nawet w starszych wersjach, ma funkcję kompostowania, która gwarantuje zapas magnezji aż do szczytu.</i>
+@@1515
+<b>Na rzeźbie wyryto wiadomość.</b>
+
+<i>Byli tu Marcel i Pontus! Są tacy, co wchodzą, i tacy, co schodzą. My zeszliśmy – żywi! Mimo to było warto. Wspomnienia na całe życie. Na zdrowie, koledzy alpiniści!</i>
+@@1516
+<i>Ostrzeżenie przed imprezą.
+
+- Zasada nr 1: nie mów o jaskini nikomu, kto nie dostał mapy z lokalizacją.
+
+- Zasada nr 2: dojście jest niebezpieczne! Zostawiliśmy linę i haki do zejścia. Niezalecane dla osób z lękiem wysokości lub klaustrofobią.
+
+- Zasada nr 3: uważajcie na dziurę w jaskini (zwłaszcza nie skaczcie przez szczelinę po pijaku).
+
+- Zasada nr 4: śmieci do worka – nie zostawiajcie śladów na górze.</i>
+@@1517
+<b>Kody sygnałowe troglodytów.</b>
+
+Sygnały kierowane do okolicznych gór:
+
+<i><b>Trzy linie ognia oznaczają próbę zdobycia szczytu.</b> Troglodyci będą cię dopingować. Niech góra prowadzi twoje kroki.
+
+<b>Dwie linie ognia oznaczają zejście.</b> Troglodyci będą cię świętować. Powrót żywym to zawsze zwycięstwo.
+
+<b>Jedna linia ognia jest zarezerwowana dla wspinaczy, którzy zdobyli szczyt.</b> Troglodyci będą cię podziwiać. <b>Oszuści zostaną przeklęci.</b></i>
+@@1518
+<i><b>Jedna linia ognia jest zarezerwowana dla wspinaczy, którzy zdobyli szczyt.</b> Troglodyci będą cię podziwiać. <b>Oszuści zostaną przeklęci.</b></i>
+@@1519
+<i><b>Dwie linie ognia oznaczają zejście.</b> Troglodyci będą cię świętować. Powrót żywym to zawsze zwycięstwo.</i>
+@@1520
+<i><b>Trzy linie ognia oznaczają próbę zdobycia szczytu.</b> Troglodyci będą cię dopingować. Niech góra prowadzi twoje kroki.</i>
+@@1521
+<i>Różne rzeczy: szmaty, płaszcze, koce.</i>
+@@1522
+<b>Na kartce widnieje napis.</b>
+
+<i>Niech Kami pozwoli nam pamiętać o sobie nawzajem.
+
+Samotność jest tylko chwilową towarzyszką, pewnego dnia znów będziemy razem.</i>
+@@1523
+<i>Mojemu mężowi, który odszedł za wysoko.</i>
+@@1524
+<i>Naszej matce, bliskiej naszemu ojcu w tym życiu i w następnym.</i>
+@@1525
+<b>Torba jest obciążona kamieniami. W środku jest koperta zaadresowana do Ebby Caruso.</b>
+@@1526
+Kochanie,
+
+mam nadzieję, że dostaniesz tę wiadomość i przestaniesz się martwić. Jak wiesz, nie ma mnie już z tobą. Ale bądź spokojna, miałam najlepsze zakończenie, jakie mogłam mieć.
+
+Kiedy powiedziałaś, że nie dasz rady opiekować się mną na starość, mocno mnie to zabolało. Ale miałaś rację. Nie wyobrażałam sobie, że stanę się dla ciebie ciężarem albo skończę z innymi starymi zrzędami w domu opieki.
+@@1527
+Więc znów wspinam się na Kami, wiedząc, że w pewnym momencie trafię na ścianę odrobinę dla mnie za trudną.
+
+Kto wie, może spotkam Christiana i resztę wyprawy? Nigdy się nie dowiemy, czy wszyscy by wrócili, gdybym 40 lat temu wspinała się z nimi.
+
+Nie smuć się, tak jest najlepiej. Wiem, że pójdziesz drogą, którą sobie wyznaczyłaś: przez życie pełne sukcesów i szczęścia, jako wolna i niezależna kobieta. Jestem z ciebie dumna i kocham cię nad wszystko.
+@@1528
+<b>Tablica jest pokryta bazgrołami.</b>
+
+<i>Tym razem to na serio!
+- Zaparzyć goryczkę bez cukru
+- Zagotować z miodem
+- Mieszać bez przerwy przez 5 minut</i>
+@@1529
+<b>Przepis na miód, który znalazłam w jaskini.</b>
+
+<i>- Zaparzyć goryczkę bez cukru
+- Zagotować z miodem
+- Mieszać bez przerwy przez 5 minut</i>
+@@1530
+<b>Zniszczona strona z przepisem z książki <i>Wielka kuchnia na wielkie szczyty</i></b>
+
+Jeśli znajdziesz w górach pomidory, możesz na biwaku przyrządzić królewski posiłek. Wystarczy je pokroić i usmażyć w garnku z zieloną papryką i korzeniami. Masz zapewniony cały dzień!
+
+Ktoś dopisał notatkę: <i>Nieźle, ale lepsze z herbatą na kozim mleku. Zresztą nic innego nie mam!</i>
